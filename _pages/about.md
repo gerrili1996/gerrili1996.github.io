@@ -27,9 +27,11 @@ More specifically, I focus on the algorithmic and theoretical foundations for da
 > Feel free to drop me a message if you are interested in my research. (Remote) collaboration is also welcome!
 
 
-# Contact 
-Email: jiajinli [at] stanford.edu 
+[comment]: <> (# Contact )
+
+[comment]: <> (Email: jiajinli [at] stanford.edu )
 
 # News
 
+- 
 - [2021.11] One paper accepted by SIAM Journal on Imaging Sciences!

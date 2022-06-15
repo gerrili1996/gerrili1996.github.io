@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jiain Li"
-  avatar           : "images/photo.jpg"
+  avatar           : "photo.jpg"
   bio              : "Postdoctoral Researcher at Stanford University"
   location         : "Palo Alto, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IwwqUhYAAAAJ&hl=en"
-  email            :
+  email            : "jiajinli@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/gerrili1996"
+  github           : "gerrili1996"
   google_plus      :
   keybase          :
   instagram        :
