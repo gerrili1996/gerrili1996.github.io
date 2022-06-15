@@ -19,7 +19,7 @@ as a visiting Ph.D student in the [Geometric Data Processing Group](http://group
 Prior to joining CUHK, I obtained my bachelor degree in Statistics from Chongqing University.
 
 
-##Research Interests 
+# Research Interests 
 My research focuses on continuous optimization and its interplay with machine learning, operations research and  data science. 
 More specifically, I focus on the algorithmic and theoretical foundations for data-driven decision making and robust machine learning. 
 
@@ -29,5 +29,7 @@ More specifically, I focus on the algorithmic and theoretical foundations for da
 
 
 
-##Contact 
+# Contact 
 Email: jiajinli [at] stanford.edu 
+
+
