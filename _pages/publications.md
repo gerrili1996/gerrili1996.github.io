@@ -55,8 +55,8 @@ author_profile: true
   Neural Information Processing Systems (**NeurIPS**), 2019. <br>
   [[paper]](https://arxiv.org/abs/1910.12778) [[code]](https://github.com/gerrili1996/DRLR_NIPS2019_exp)
 - Policy Optimization with Second-Order Advantage Information <br>
-  ** Jiajin Li^ **, Baoxiang Wang^.  <br>
+  **Jiajin Li^**, Baoxiang Wang^.  <br>
   International Joint Conference on Artificial Intelligence (**IJCAI**), 2018. <br>
   [[paper]](https://arxiv.org/abs/1805.03586) [[code]](https://github.com/wangbx66/Action-Subspace-Dependent)
   
-^ = Equal contribution.
+^ := Equal contribution.
