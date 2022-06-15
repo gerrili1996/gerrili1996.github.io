@@ -12,6 +12,8 @@ author_profile: true
 - Learning Proximal Operators to Discover Multiple Optima<br>
   Lingxiao Li, Noam Aigerman, Vladimir G. Kim, **Jiajin Li**, Kristjan Greenewald, Mikhail Yurochkin, Justin Solomon. <br>
   [[arxiv]](https://arxiv.org/pdf/2201.11945.pdf) 
+  
+
 ## Journal Papers
 
 - A Splitting Scheme for Flip-Free Distortion Energies <br>
@@ -36,7 +38,7 @@ author_profile: true
   Jia Li, **Jiajin Li**, Yang Liu, Jianwei Yu, Yueting Li, Hong Cheng. <br>
   Neural Information Processing Systems (**NeurIPS**), 2021. <br>
   [[paper]](https://arxiv.org/abs/2110.15528) [[code]]()
-- Fast Epigraphical Projection-based Incremental Algorithms for Wasserstein Distributionally Robust Support Vector Machine <br>
+- Fast Epigraphical Projection-based Incremental Algorithms for Wasserstein Distributionally Robust SVM <br>
   **Jiajin Li**, Caihua Chen, Anthony Man-Cho So. <br>
   Neural Information Processing Systems (**NeurIPS**), 2020. <br>
   [[paper]](https://arxiv.org/abs/2010.12865) [[code]]()
@@ -53,8 +55,8 @@ author_profile: true
   Neural Information Processing Systems (**NeurIPS**), 2019. <br>
   [[paper]](https://arxiv.org/abs/1910.12778) [[code]](https://github.com/gerrili1996/DRLR_NIPS2019_exp)
 - Policy Optimization with Second-Order Advantage Information <br>
-  **Jiajin Li^***, Baoxiang Wang^*.  <br>
+  ** Jiajin Li^ **, Baoxiang Wang^.  <br>
   International Joint Conference on Artificial Intelligence (**IJCAI**), 2018. <br>
   [[paper]](https://arxiv.org/abs/1805.03586) [[code]](https://github.com/wangbx66/Action-Subspace-Dependent)
   
-^* = Equal contribution.
+^ = Equal contribution.
