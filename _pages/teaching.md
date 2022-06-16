@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
+## Teaching 
+
 I was a teaching assistant for:
 - [ENGG 5501 Foundations of Optimization](https://www1.se.cuhk.edu.hk/~manchoso/2021/engg5501/), 2020 Fall
 - [ESTR 2004 Discrete Mathematics for Engineers (ELITE Stream)](https://www1.se.cuhk.edu.hk/~manchoso/2021/estr2004/), 2020 Fall
@@ -16,7 +18,7 @@ I was a teaching assistant for:
 - [ENGG 2440B Discrete Mathematics for Engineers](https://www1.se.cuhk.edu.hk/~manchoso/1819/engg2440b/), 2018 Fall
 - [ENGG 1410A Linear Algebra and Vector Calculus](http://course.cse.cuhk.edu.hk/~engg1410/), 2018 Spring
 
-# Professional Services
+## Professional Services
 
 Reviews for 
 
