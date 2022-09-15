@@ -33,10 +33,13 @@ More specifically, I focus on the algorithmic and theoretical foundations for da
 
 # News
 
+- [2022.09] One paper accepted by NeurIPS 2022! 
+- [2022.08] Selected as one of the Rising Stars in EECS at UT Austin.
 - [2022.05] One paper accepted by ICML 2022! 
 - [2021.11] One paper accepted by SIAM Journal on Imaging Sciences!
 - [2021.09] Two papers accepted by NeurIPS 2021!
 - [2021.08] I passed my Ph.D. thesis defense and will join Stanford as a postdoc, working with [Prof. Jose Blanchet](https://web.stanford.edu/~jblanche/).
+- [2020.09] Two papers accepted by NeurIPS 2020!
 - [2020.08] I joined the [GDP@MIT](http://groups.csail.mit.edu/gdpgroup/index.html) as a visiting Ph.D student, working with [Prof. Justin Solomon](https://people.csail.mit.edu/jsolomon/).  
 - [2019.12] One paper accepted by ICLR 2020!
 - [2019.09] One paper accepted by NeurIPS 2019!

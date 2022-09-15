@@ -7,6 +7,15 @@ redirect_from:
   - /markdown.html
 ---
 
+- Tikhonov Regularization is Optimal Transport Robust under Martingale Constraints
+
+    - INFORMS Anuual Meeting, October, 2022.
+    - UT Austin EECS Rising Stars Workshop, October, 2022.
+
+- Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[slides]](https://gerrili1996.github.io/files/iccopt_2022_jiajin.pdf)
+
+    - International Conference on Continuous Optimization (ICCOPT), July, 2022. 
+
 - Modified Frank-Wolfe in Probability Space [[slides]](https://gerrili1996.github.io/files/fw_erice_jiajin.pdf)
 
     - Workshop “Robustness and Resilience in Stochastic Optimization and Statistical Learning:

@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 ## Preprints
+- Nonsmooth Composite Nonconvex-Concave Minimax Optimization (*preprint available upon request*) <br>
+**Jiajin Li**,  Linglingzhi Zhu, Anthony Man-Cho So. <br>
 - Fast Provably Convergent Algorithms for Gromov-Wasserstein  in Graph Learning [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
-  **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. 
+  **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
 - Learning Proximal Operators to Discover Multiple Optima   [[arxiv]](https://arxiv.org/pdf/2201.11945.pdf)  <br>
   Lingxiao Li, Noam Aigerman, Vladimir G. Kim, **Jiajin Li**, Kristjan Greenewald, Mikhail Yurochkin, Justin Solomon. <br>
   
@@ -23,6 +25,10 @@ author_profile: true
    IEEE Signal Processing Magazine (**SPM**), 2020. 
   
 ## Conference Proceedings
+- Tikhonov Regularization is Optimal Transport Robust under
+Martingale Constraints  <br>
+   **Jiajin Li**, Sirui Lin, Jose Blanchet, Viet Anh Nguyen. <br>
+  Neural Information Processing Systems (**NeurIPS**), 2022. 
 - Rethinking Graph Neural Networks for Anomaly Detection [[paper]](https://arxiv.org/abs/2205.15508) [[code]]() <br>
   Jianheng Tang, **Jiajin Li**, Ziqi Gao, Jia Li. <br>
   International Conference on Machine Learning (**ICML**), 2022. 
