@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Preprints
-- Nonsmooth Composite Nonconvex-Concave Minimax Optimization (*preprint available upon request*) <br>
+- Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825)<br>
 **Jiajin Li**,  Linglingzhi Zhu, Anthony Man-Cho So. <br>
 - Fast Provably Convergent Algorithms for Gromov-Wasserstein  in Graph Learning [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
@@ -54,4 +54,5 @@ Martingale Constraints  <br>
   **Jiajin Li^**, Baoxiang Wang^.  <br>
   International Joint Conference on Artificial Intelligence (**IJCAI**), 2018. 
   
+
 ^ := Equal contribution.
