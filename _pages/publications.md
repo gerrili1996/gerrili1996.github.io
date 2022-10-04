@@ -6,13 +6,14 @@ author_profile: true
 ---
 
 ## Preprints
-- Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825)<br>
+- Synthetic Principle Component Design: Fast Covariate Balancing with Synthetic Controls<br>
+Yiping Lu,  **Jiajin Li**, Lexing Ying,  Jose Blanchet. <br>
+-  Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825)<br>
 **Jiajin Li**,  Linglingzhi Zhu, Anthony Man-Cho So. <br>
 - Fast Provably Convergent Algorithms for Gromov-Wasserstein  in Graph Learning [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
 - Learning Proximal Operators to Discover Multiple Optima   [[arxiv]](https://arxiv.org/pdf/2201.11945.pdf)  <br>
   Lingxiao Li, Noam Aigerman, Vladimir G. Kim, **Jiajin Li**, Kristjan Greenewald, Mikhail Yurochkin, Justin Solomon. <br>
-  
 
 ## Journal Papers
 
