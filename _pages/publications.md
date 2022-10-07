@@ -27,7 +27,7 @@ Yiping Lu,  **Jiajin Li**, Lexing Ying,  Jose Blanchet. <br>
   
 ## Conference Proceedings
 - Tikhonov Regularization is Optimal Transport Robust under
-Martingale Constraints  <br>
+Martingale Constraints [[arxiv]](https://arxiv.org/abs/2210.01413) <br>
    **Jiajin Li**, Sirui Lin, Jose Blanchet, Viet Anh Nguyen. <br>
   Neural Information Processing Systems (**NeurIPS**), 2022. 
 - Rethinking Graph Neural Networks for Anomaly Detection [[paper]](https://arxiv.org/abs/2205.15508) [[code]]() <br>
