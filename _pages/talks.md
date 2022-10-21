@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-- Tikhonov Regularization is Optimal Transport Robust under Martingale Constraints
+- Tikhonov Regularization is Optimal Transport Robust under Martingale Constraints [[slides]](https://gerrili1996.github.io/files/Slides_informs_martingale_2022.pdf)
 
     - INFORMS Anuual Meeting, October, 2022.
     - UT Austin EECS Rising Stars Workshop, October, 2022.
@@ -19,11 +19,11 @@ redirect_from:
 - Modified Frank-Wolfe in Probability Space [[slides]](https://gerrili1996.github.io/files/fw_erice_jiajin.pdf)
 
     - Workshop “Robustness and Resilience in Stochastic Optimization and Statistical Learning:
-Mathematical Foundations”, May, 2022.
+    Mathematical Foundations”, May, 2022.
     -  VinAI NeurIPS 2021 Workshop, Nov, 2021.
     
 - Efficient and Provable Algorithms for Wasserstein Distributionally Robust Optimization in Machine Learning [[slides]](https://gerrili1996.github.io/files/DRO_Slides.pdf)
-    
+  
     - INFORMS Anuual Meeting, October, 2021.
     - ETH AI Center Post-Doctoral Fellowship Symposium, March 2021. 
 

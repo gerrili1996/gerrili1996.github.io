@@ -6,10 +6,6 @@ author_profile: true
 ---
 
 ## Preprints
-- Synthetic Principle Component Design: Fast Covariate Balancing with Synthetic Controls<br>
-Yiping Lu,  **Jiajin Li**, Lexing Ying,  Jose Blanchet. <br>
--  Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825)<br>
-**Jiajin Li**,  Linglingzhi Zhu, Anthony Man-Cho So. <br>
 - Fast Provably Convergent Algorithms for Gromov-Wasserstein  in Graph Learning [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
 - Learning Proximal Operators to Discover Multiple Optima   [[arxiv]](https://arxiv.org/pdf/2201.11945.pdf)  <br>
@@ -26,8 +22,13 @@ Yiping Lu,  **Jiajin Li**, Lexing Ying,  Jose Blanchet. <br>
    IEEE Signal Processing Magazine (**SPM**), 2020. 
   
 ## Conference Proceedings
-- Tikhonov Regularization is Optimal Transport Robust under
-Martingale Constraints [[arxiv]](https://arxiv.org/abs/2210.01413) <br>
+- Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
+   **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>
+  NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**).
+- Synthetic Principle Component Design: Fast Covariate Balancing with Synthetic Controls<br>
+ Yiping Lu,  **Jiajin Li**, Lexing Ying,  Jose Blanchet. <br>
+  NeurIPS 2022 Workshop on Causality for Real-world Impact. 
+- Tikhonov Regularization is Optimal Transport Robust under Martingale Constraints [[arxiv]](https://arxiv.org/abs/2210.01413) <br>
    **Jiajin Li**, Sirui Lin, Jose Blanchet, Viet Anh Nguyen. <br>
   Neural Information Processing Systems (**NeurIPS**), 2022. 
 - Rethinking Graph Neural Networks for Anomaly Detection [[paper]](https://arxiv.org/abs/2205.15508) [[code]]() <br>

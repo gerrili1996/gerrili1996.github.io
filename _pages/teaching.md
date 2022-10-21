@@ -25,7 +25,9 @@ Reviews for
 - Neural Information Processing Systems (NeurIPS) 2020, 2021, 2022 
 - International Conference on Machine Learning (ICML) 2020, 2021, 2022
 - The International Conference on Learning Representations (ICLR) 2022
-- Mathematical Programming
+- International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
+- Mathematical Programming 
+- Mathematics of Operations Research 
 - Operation Research 
 - Journal of Global Optimization
 - IEEE Transactions on Knowledge and Data Engineering
