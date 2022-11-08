@@ -45,4 +45,4 @@ More specifically, I focus on the algorithmic and theoretical foundations for da
 - [2019.09] One paper accepted by NeurIPS 2019!
 - [2018.04] One paper accepted by IJCAI 2018!
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=268&t=tt&d=ClGOXY2uKf0Io0DSAJkrBfZlEVYRsuP6Esld81tT5GE&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+<a href="https://clustrmaps.com/site/1bc1p" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=268&t=tt&d=ClGOXY2uKf0Io0DSAJkrBfZlEVYRsuP6Esld81tT5GE&co=ffffff&ct=808080" /></a>
