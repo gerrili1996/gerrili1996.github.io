@@ -20,8 +20,10 @@ author_profile: true
    <br>
   **Jiajin Li**, Anthony Man-Cho So, Wing-Kin Ma. <br>
    IEEE Signal Processing Magazine (**SPM**), 2020. 
-  
 ## Conference Proceedings
+- Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport<br>
+  Jianheng Tang, Weiqi Zhang,  **Jiajin Li**,  Kangfei Zhao, Fugee Tsung, Jia Li. <br>
+  International Conference on Data Engineering  (**ICDE**), 2023.
 - Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
    **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>
   NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**).

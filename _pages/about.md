@@ -20,16 +20,13 @@ Prior to joining CUHK, I obtained my bachelor degree in Statistics from Chongqin
 
 
 # Research Interests 
-My research focuses on continuous optimization and its interplay with machine learning, operations research and  data science. 
-More specifically, I focus on the algorithmic and theoretical foundations for data-driven optimization problems.
+My research lies  in the interface of continuous optimization and machine learning, with a primary focus on the algorithmic and theoretical foundations for solving data-driven decision-making problems. 
 
 
-> Feel free to drop me a message if you are interested in my research. (Remote) collaboration is also welcome!
 
+[comment]: <> "# Contact "
 
-[comment]: <> (# Contact )
-
-[comment]: <> (Email: jiajinli [at] stanford.edu )
+[comment]: <> "Email: jiajinli [at] stanford.edu "
 
 # News
 
