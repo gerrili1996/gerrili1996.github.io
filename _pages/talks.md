@@ -14,7 +14,7 @@ redirect_from:
 
 - Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[slides]](https://gerrili1996.github.io/files/iccopt_2022_jiajin.pdf)
 
-    - NeurIPS 2022 Workshop on Optimization for Machine Learning (OPT 2022), December, 2022.
+    - NeurIPS 2022 Workshop on Optimization for Machine Learning, December, 2022.
     - International Conference on Continuous Optimization (ICCOPT), July, 2022. 
 
 - Modified Frank-Wolfe in Probability Space [[slides]](https://gerrili1996.github.io/files/fw_erice_jiajin.pdf)
