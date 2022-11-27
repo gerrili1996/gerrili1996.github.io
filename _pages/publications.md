@@ -26,7 +26,7 @@ author_profile: true
   International Conference on Data Engineering  (**ICDE**), 2023.
 - Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
    **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>
-  NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**).
+  NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
 - Synthetic Principle Component Design: Fast Covariate Balancing with Synthetic Controls<br>
  Yiping Lu,  **Jiajin Li**, Lexing Ying,  Jose Blanchet. <br>
   NeurIPS 2022 Workshop on Causality for Real-world Impact. 
