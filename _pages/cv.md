@@ -7,5 +7,4 @@ redirect_from:
   - /resume
 ---
 
-
-[Link to CV] (avaiable in request!)
+[[Up-to-date CV]](https://gerrili1996.github.io/files/CV_LJJ_github.pdf)

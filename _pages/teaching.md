@@ -28,6 +28,7 @@ Reviews for
 - International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
 - Mathematical Programming 
 - Mathematics of Operations Research 
+- SIAM Journal on Optimization
 - Operation Research 
 - Journal of Global Optimization
 - IEEE Transactions on Knowledge and Data Engineering
