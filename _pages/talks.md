@@ -12,10 +12,10 @@ redirect_from:
     - INFORMS Anuual Meeting, October, 2022.
     - UT Austin EECS Rising Stars Workshop, October, 2022.
 
-- Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[slides]](https://gerrili1996.github.io/files/iccopt_2022_jiajin.pdf)
+- Nonsmooth Composite Nonconvex-Concave Minimax Optimization
 
-    - NeurIPS 2022 Workshop on Optimization for Machine Learning, December, 2022.
-    - International Conference on Continuous Optimization (ICCOPT), July, 2022. 
+    - NeurIPS 2022 Workshop on Optimization for Machine Learning, December, 2022  [[slides]](https://gerrili1996.github.io/files/OPT_2022_Minimax_jiajin Li.pdf).
+    - International Conference on Continuous Optimization (ICCOPT), July, 2022 [[slides]](https://gerrili1996.github.io/files/iccopt_2022_jiajin.pdf). 
 
 - Modified Frank-Wolfe in Probability Space [[slides]](https://gerrili1996.github.io/files/fw_erice_jiajin.pdf)
 

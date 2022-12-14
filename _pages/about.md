@@ -20,11 +20,7 @@ Prior to joining CUHK, I obtained my bachelor degree in Statistics from Chongqin
 
 
 # Research Interests 
-My research lies  in the interface of continuous optimization and machine learning, with a primary focus on the algorithmic and theoretical foundations for solving data-driven decision-making problems. 
-
-# Travel
-
-> I will attend the upcoming **NeurIPS 2022** held in New Orleans. Welcome to my poster session (*Dec 1st, 11am-1pm, Hall J #726*) and oral presentation at [OPT 2022: Optimization for Machine Learning](https://nips.cc/virtual/2022/workshop/50018) (*Dec 3rd, 11am*). Feel free to schedule a chat with me!
+My research lies in the interface of continuous optimization and machine learning, with a primary focus on the algorithmic and theoretical foundations for solving data-driven decision-making problems. 
 
 # News
 
