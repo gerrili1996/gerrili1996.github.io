@@ -5,8 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research lies in the interface of **continuous optimization** and **machine learning**, with a primary focus on the algorithmic and theoretical foundations for solving data-driven decision-making problems. Recently, the growing availability of data and improvements in computing resources have enabled the use of automatic decision-making tools in a wide range of applied areas. 
-Of these areas, graph learning, finance, insurance, and reliability have informed most of my research; a significant portion of my research is inspired by in-depth collaboration and discussion with researchers in these areas. As an optimizer, I not only care about developing general-purpose algorithms for abstract optimization problems, but I  strive to design specific application-driven optimization models and develop computational tools for them. 
+My research lies in the interface of **continuous optimization** and **machine learning**, with a primary focus on the algorithmic and theoretical foundations for solving data-driven decision-making problems. Recently, the growing availability of data and improvements in computing resources have enabled the use of automatic decision-making tools in a wide range of applied areas. Of these areas, graph learning, finance, insurance, and reliability have informed most of my research; a significant portion of my research is inspired by in-depth collaboration and discussion with researchers in these areas. As an optimizer, I not only care about developing general-purpose algorithms for abstract optimization problems, but I  strive to design specific application-driven optimization models and develop computational tools for them. 
 
 The following four steps constitute my  *bottom-up* research philosophy: 
 
@@ -22,9 +21,10 @@ The following four steps constitute my  *bottom-up* research philosophy:
 
 ### Algorithmic Foundation of Nonsmooth Nonconvex (Non)-concave Minimax Optimization
 
-Nonsmooth Nonconvex (Non)concave minimax optimization has gained traction in machine learning.  However, there are still several fundamental open problems that are under-explored:  (1) most existing works focus on the gradient-descent-ascent (GDA) variants that can only be applied when the objective function is smooth (gradient information is available);(2)  all existing algorithms for general nonconvex nonconcave minimax problems, cannot be guaranteed to converge and even suffer from the *limit cycle* phenomenon. Their global convergence relies on certain regularity conditions that cannot be verified in practice. My recent research works provide satisfactory answers to the above issues, which provide new algorithmic frameworks and novel analytic techniques in the community. 
+Nonsmooth Nonconvex (Non)concave minimax optimization has gained traction in machine learning.  However, there are still several fundamental open problems that are under-explored:  (1) most existing works focus on the gradient-descent-ascent (GDA) variants that can only be applied when the objective function is smooth (gradient information is available);(2)  all existing algorithms for general nonconvex nonconcave minimax problems, cannot be guaranteed to converge and even suffer from the *limit cycle* phenomenon. Their global convergence relies on uncheckable regularity conditions. My recent research works provide satisfactory answers to the above issues, which provide new algorithmic frameworks and novel analytic techniques in the minimax community. 
 
-- Escape from the Limit Cycle: Double Smoothed GDA for Nonconvex-Nonconcave Minimax Optimization <br>Work with Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, and Jose Blanchet.  <br>To be submitted *(preprint available upon request)*.
+- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Problems  [[draft]]((https://gerrili1996.github.io/files/nonconvex_nonconcave_minimax.pdf)) <br>
+Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li* **.  <br>
 
 - Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
    **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>
@@ -68,8 +68,12 @@ By identifying and further exploiting these useful structures from the dual form
 
 The Gromov-Wasserstein (GW) distance provides a flexible way to compare and couple probability distributions supported on different metric spaces. As such, we have witnessed a fast-growing body of literature that applies the GW distance to various structural data analysis tasks, e.g., Cross-lingual knowledge graph (KG)  alignment in natural language processing (NLP) for the machine translation task. In this line of research, we first study the design and analysis of the first practically provable single-loop algorithms for computing the GW distance. The main technical observation is that the GW distance computation satisfies a so-called Luo-Tseng error-bound condition.  Upon this, we further develop an unsupervised graph alignment framework that jointly performs Structure Learning and GW-based graph Alignment. The whole method achieves *state-of-the-art performance* on the DBP15K KG alignment benchmark dataset. 
 
-- Fast Provably Convergent Algorithms for Gromov-Wasserstein in Graph Learning [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
+- Fast Provably Convergent Algorithms for Gromov-Wasserstein in Graph Data [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
+  
+- A Convergent Single-Loop Algorithm for Gromov-Wasserstein in Graph Data  <br>
+  **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
+  Submitted. 
 
 - Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport [[code]](https://github.com/squareRoot3/SLOTAlign)<br>
   Jianheng Tang, Weiqi Zhang,  **Jiajin Li**,  Kangfei Zhao, Fugee Tsung, Jia Li. <br>

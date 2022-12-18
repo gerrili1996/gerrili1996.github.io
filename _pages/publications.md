@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Preprints
-- Escape from the Limit Cycle: Doubly Smoothed Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization   <br>
-Taoli Zheng,  Linglingzhi Zhu,  Anthony Man-Cho So,  Jose Blanchet, **Jiajin Li**. <br>
+- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Problems  [[draft]]((https://gerrili1996.github.io/files/nonconvex_nonconcave_minimax.pdf)) <br>
+Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li* **.  <br>
 - Fast Provably Convergent Algorithms for Gromov-Wasserstein  in Graph Data [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
 - Learning Proximal Operators to Discover Multiple Optima   [[arxiv]](https://arxiv.org/pdf/2201.11945.pdf)  <br>
