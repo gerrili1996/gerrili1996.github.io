@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Preprints
-- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Problems  [[draft]]((https://gerrili1996.github.io/files/nonconvex_nonconcave_minimax.pdf)) <br>
+- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization  [[arxiv]](()) <br>
 Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**.  <br>
 - Fast Provably Convergent Algorithms for Gromov-Wasserstein  in Graph Data [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
@@ -57,8 +57,7 @@ Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**. 
   **Jiajin Li**, Sen Huang, Anthony Man-Cho So. <br>
   Neural Information Processing Systems (**NeurIPS**), 2019. 
 - Policy Optimization with Second-Order Advantage Information  [[paper]](https://arxiv.org/abs/1805.03586) [[code]](https://github.com/wangbx66/Action-Subspace-Dependent) <br>
-  **Jiajin Li^**, Baoxiang Wang^.  <br>
+  **Jiajin Li**$^\star$, Baoxiang Wang.  <br>
   International Joint Conference on Artificial Intelligence (**IJCAI**), 2018. 
-  
 
-^ := Equal contribution.
+$^\star$ stands for alphabetical order.
