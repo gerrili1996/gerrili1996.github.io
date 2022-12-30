@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Preprints
-- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization  [[arxiv]](()) <br>
+- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization  [[arxiv]]((https://arxiv.org/pdf/2212.12978.pdf)) <br>
 Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**.  <br>
 - Fast Provably Convergent Algorithms for Gromov-Wasserstein  in Graph Data [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
