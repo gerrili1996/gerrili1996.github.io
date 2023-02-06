@@ -5,13 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints
-- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization  [[arxiv]]((https://arxiv.org/pdf/2212.12978.pdf)) <br>
-Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**.  <br>
+## Preprints and Submitted
+
+- Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
+  **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>
+  NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
+- Synthetic Principle Component Design: Fast Covariate Balancing with Synthetic Controls<br>
+  Yiping Lu,  **Jiajin Li**, Lexing Ying,  Jose Blanchet. <br>
+  NeurIPS 2022 Workshop on Causality for Real-world Impact. 
+
 - Fast Provably Convergent Algorithms for Gromov-Wasserstein  in Graph Data [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
-- Learning Proximal Operators to Discover Multiple Optima   [[arxiv]](https://arxiv.org/pdf/2201.11945.pdf)  <br>
-  Lingxiao Li, Noam Aigerman, Vladimir G. Kim, **Jiajin Li**, Kristjan Greenewald, Mikhail Yurochkin, Justin Solomon. <br>
+- Outlier-Robust Gromov Wasserstein for Graph Data  <br>
+  Lemin Kong, **Jiajin Li**, Anthony Man-Cho So. <br>
 
 ## Journal Papers
 
@@ -23,15 +29,15 @@ Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**. 
   **Jiajin Li**, Anthony Man-Cho So, Wing-Kin Ma. <br>
    IEEE Signal Processing Magazine (**SPM**), 2020. 
 ## Conference Proceedings
+- A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data <br>
+  **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>International Conference on Learning Representation  (**ICLR**), 2023.
+- Learning Proximal Operators to Discover Multiple Optima [[arxiv\]](https://arxiv.org/pdf/2201.11945.pdf) <br>
+  Lingxiao Li, Noam Aigerman, Vladimir G. Kim, **Jiajin Li**, Kristjan Greenewald, Mikhail Yurochkin, Justin Solomon. <br>
+  International Conference on Learning Representation  (**ICLR**), 2023.
+- Wasserstein Distributionally Robust Linear-Quadratic Estimation under Martingale Constraints <br>Kyriakos Lotidis, Nicholas Bambos, Jose Blanche,  **Jiajin Li**. <br>International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2023.
 - Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport<br>
   Jianheng Tang, Weiqi Zhang,  **Jiajin Li**,  Kangfei Zhao, Fugee Tsung, Jia Li. <br>
   International Conference on Data Engineering  (**ICDE**), 2023.
-- Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
-   **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>
-  NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
-- Synthetic Principle Component Design: Fast Covariate Balancing with Synthetic Controls<br>
- Yiping Lu,  **Jiajin Li**, Lexing Ying,  Jose Blanchet. <br>
-  NeurIPS 2022 Workshop on Causality for Real-world Impact. 
 - Tikhonov Regularization is Optimal Transport Robust under Martingale Constraints [[arxiv]](https://arxiv.org/abs/2210.01413) <br>
    **Jiajin Li**, Sirui Lin, Jose Blanchet, Viet Anh Nguyen. <br>
   Neural Information Processing Systems (**NeurIPS**), 2022. 

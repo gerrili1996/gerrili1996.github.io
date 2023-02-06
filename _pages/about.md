@@ -24,6 +24,8 @@ My research lies in the interface of continuous optimization and machine learnin
 
 # News
 
+- [2023.02] Two papers accepted by ICLR 2023! 
+- [2023.01] One paper accepted by AISTATS 2023! 
 - [2022.09] One paper accepted by NeurIPS 2022! 
 - [2022.08] Selected as one of the Rising Stars in EECS at UT Austin.
 - [2022.05] One paper accepted by ICML 2022! 
