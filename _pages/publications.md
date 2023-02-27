@@ -6,18 +6,21 @@ author_profile: true
 ---
 
 ## Preprints and Submitted
-
+- Unifying Distributionally Robust Optimization via Martingale-Constrained Optimal Transport  <br>
+  Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
+- Outlier-Robust Gromov Wasserstein for Graph Data [[arxiv]](https://arxiv.org/abs/2302.04610) <br>
+  Lemin Kong, **Jiajin Li**, Anthony Man-Cho So. <br>
 - Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
   **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>
   NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
 - Synthetic Principle Component Design: Fast Covariate Balancing with Synthetic Controls<br>
   Yiping Lu,  **Jiajin Li**, Lexing Ying,  Jose Blanchet. <br>
   NeurIPS 2022 Workshop on Causality for Real-world Impact. 
-
 - Fast Provably Convergent Algorithms for Gromov-Wasserstein  in Graph Data [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
-  **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
-- Outlier-Robust Gromov Wasserstein for Graph Data  <br>
-  Lemin Kong, **Jiajin Li**, Anthony Man-Cho So. <br>
+  **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose 
+  Blanchet. <br>
+
+
 
 ## Journal Papers
 
@@ -29,7 +32,7 @@ author_profile: true
   **Jiajin Li**, Anthony Man-Cho So, Wing-Kin Ma. <br>
    IEEE Signal Processing Magazine (**SPM**), 2020. 
 ## Conference Proceedings
-- A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data <br>
+- A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data [[paper]](https://openreview.net/pdf?id=0jxPyVWmiiF)<br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>International Conference on Learning Representation  (**ICLR**), 2023.
 - Learning Proximal Operators to Discover Multiple Optima [[arxiv\]](https://arxiv.org/pdf/2201.11945.pdf) <br>
   Lingxiao Li, Noam Aigerman, Vladimir G. Kim, **Jiajin Li**, Kristjan Greenewald, Mikhail Yurochkin, Justin Solomon. <br>
