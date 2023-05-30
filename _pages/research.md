@@ -47,10 +47,8 @@ Nonsmooth Nonconvex-Nonconcave minimax optimization has gained traction in machi
 - Global Convergence Rate Analysis of Nonsmooth Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
   **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>The preliminary version has been accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
 
-- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br>
+- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br>Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**. <br>
   
-  Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**. <br>
-
 - Understanding Notions of Stationarity in Nonsmooth Optimization [[paper]](https://ieeexplore.ieee.org/document/9186389) <br>
    **Jiajin Li**, Anthony Man-Cho So, Wing-Kin Ma. <br>IEEE Signal Processing Magazine (**SPM**), 2020. 
    

@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 - Unifying Distributionally Robust Optimization via Martingale-Constrained Optimal Transport 
-- International Conference Stochastic Programming, July, 2023. 
+    - International Conference Stochastic Programming, July, 2023. 
 - Trade-off among Infeasibility, Efficiency and Accuracy for Gromov-Wasserstein Computation
     - SIAM Conference on Optimization (OP23), June  2023. 
 - Tikhonov Regularization is Optimal Transport Robust under Martingale Constraints [[slides]](https://gerrili1996.github.io/files/Slides_informs_martingale_2022.pdf)

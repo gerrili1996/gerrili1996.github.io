@@ -10,7 +10,7 @@ author_profile: true
   Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
   
 - Global Convergence Rate Analysis of Nonsmooth Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
-  **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>The preliminary version has been accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
+  **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>Preliminary version accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
 
 - Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br>Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**. <br>
 
