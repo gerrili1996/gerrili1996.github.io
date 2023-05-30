@@ -6,41 +6,45 @@ author_profile: true
 ---
 
 ## Preprints and Submitted
-- Unifying Distributionally Robust Optimization via Martingale-Constrained Optimal Transport  <br>
+- Unifying Distributionally Robust Optimization via Martingale-Constrained Optimal Transport  [Coming soon] <br>
   Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
+  
+- Global Convergence Rate Analysis of Nonsmooth Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
+  **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>
+
+  The preliminary version has been accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
+
+- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br>
+
+  Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**. <br>
+
 - Outlier-Robust Gromov Wasserstein for Graph Data [[arxiv]](https://arxiv.org/abs/2302.04610) <br>
   Lemin Kong, **Jiajin Li**, Anthony Man-Cho So. <br>
-- Nonsmooth Composite Nonconvex-Concave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
-  **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>
-  NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
+  
 - Synthetic Principle Component Design: Fast Covariate Balancing with Synthetic Controls<br>
   Yiping Lu,  **Jiajin Li**, Lexing Ying,  Jose Blanchet. <br>
   NeurIPS 2022 Workshop on Causality for Real-world Impact. 
+  
 - Fast Provably Convergent Algorithms for Gromov-Wasserstein  in Graph Data [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose 
   Blanchet. <br>
 
 
 
-## Journal Papers
+## Publication
 
-- A Splitting Scheme for Flip-Free Distortion Energies [[paper]](https://arxiv.org/abs/2107.05200) [[project page]](http://odedstein.com/projects/flip-free-parametrization/index.html) <br>
-  Oded Stein, **Jiajin Li**, Justin Solomon. <br>
-  SIAM Journal on Imaging Sciences (**SIIMS**), to appear.
-- Understanding Notions of Stationarity in Nonsmooth Optimization [[paper]](https://ieeexplore.ieee.org/document/9186389) 
-   <br>
-  **Jiajin Li**, Anthony Man-Cho So, Wing-Kin Ma. <br>
-   IEEE Signal Processing Magazine (**SPM**), 2020. 
-## Conference Proceedings
 - A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data [[paper]](https://openreview.net/pdf?id=0jxPyVWmiiF)<br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>International Conference on Learning Representation  (**ICLR**), 2023.
 - Learning Proximal Operators to Discover Multiple Optima [[arxiv\]](https://arxiv.org/pdf/2201.11945.pdf) <br>
   Lingxiao Li, Noam Aigerman, Vladimir G. Kim, **Jiajin Li**, Kristjan Greenewald, Mikhail Yurochkin, Justin Solomon. <br>
   International Conference on Learning Representation  (**ICLR**), 2023.
-- Wasserstein Distributionally Robust Linear-Quadratic Estimation under Martingale Constraints <br>Kyriakos Lotidis, Nicholas Bambos, Jose Blanche,  **Jiajin Li**. <br>International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2023.
+- Wasserstein Distributionally Robust Linear-Quadratic Estimation under Martingale Constraints [[paper]](https://proceedings.mlr.press/v206/lotidis23a/lotidis23a.pdf) <br>Kyriakos Lotidis, Nicholas Bambos, Jose Blanche,  **Jiajin Li**. <br>International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2023.
 - Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport<br>
   Jianheng Tang, Weiqi Zhang,  **Jiajin Li**,  Kangfei Zhao, Fugee Tsung, Jia Li. <br>
   International Conference on Data Engineering  (**ICDE**), 2023.
+- A Splitting Scheme for Flip-Free Distortion Energies [[paper]](https://arxiv.org/abs/2107.05200) [[project page]](http://odedstein.com/projects/flip-free-parametrization/index.html) <br>
+  Oded Stein, **Jiajin Li**, Justin Solomon. <br>
+  SIAM Journal on Imaging Sciences (**SIIMS**), to appear.
 - Tikhonov Regularization is Optimal Transport Robust under Martingale Constraints [[arxiv]](https://arxiv.org/abs/2210.01413) <br>
    **Jiajin Li**, Sirui Lin, Jose Blanchet, Viet Anh Nguyen. <br>
   Neural Information Processing Systems (**NeurIPS**), 2022. 
@@ -53,6 +57,10 @@ author_profile: true
 - Deconvolutional Networks on Graph Data [[paper]](https://arxiv.org/abs/2110.15528) [[code]]() <br>
   Jia Li, **Jiajin Li**, Yang Liu, Jianwei Yu, Yueting Li, Hong Cheng. <br>
   Neural Information Processing Systems (**NeurIPS**), 2021. 
+- Understanding Notions of Stationarity in Nonsmooth Optimization [[paper]](https://ieeexplore.ieee.org/document/9186389) 
+  <br>
+  **Jiajin Li**, Anthony Man-Cho So, Wing-Kin Ma. <br>
+   IEEE Signal Processing Magazine (**SPM**), 2020. 
 - Fast Epigraphical Projection-based Incremental Algorithms for Wasserstein Distributionally Robust SVM [[paper]](https://arxiv.org/abs/2010.12865) [[code]]() <br>
   **Jiajin Li**, Caihua Chen, Anthony Man-Cho So. <br>
   Neural Information Processing Systems (**NeurIPS**), 2020.
