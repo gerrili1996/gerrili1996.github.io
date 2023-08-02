@@ -22,6 +22,12 @@ Prior to joining CUHK, I obtained my bachelor degree in Statistics from Chongqin
 # Research Interests 
 My research lies in the interface of continuous optimization and machine learning, with a primary focus on the algorithmic and theoretical foundations for solving data-driven decision-making problems. 
 
+
+
+### <font color=red> **I will be on the 2023-2024 academic job market.** </font>
+
+
+
 # News
 
 - [2023.02] Two papers accepted by ICLR 2023! 

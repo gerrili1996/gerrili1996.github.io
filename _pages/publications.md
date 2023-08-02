@@ -6,16 +6,19 @@ author_profile: true
 ---
 
 ## Preprints and Submitted
-- Unifying Distributionally Robust Optimization via Martingale-Constrained Optimal Transport  [Coming soon] <br>
-  Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
+- Unifying Distributionally Robust Optimization via Optimal Transport Theory  [Coming soon] <br>($\alpha$-$\beta$ order) Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
   
-- Global Convergence Rate Analysis of Nonsmooth Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
-  **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>Preliminary version accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
+- Nonsmooth Nonconvex-Nonconcave Minimax Optimization: Primal-Dual Balancing and Iteration Complexity Analysis [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
+  **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>
 
-- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br>Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**. <br>
-
+  Submitted to **Mathematical Programming**. 
+  
+  Preliminary version accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
+  
 - Outlier-Robust Gromov Wasserstein for Graph Data [[arxiv]](https://arxiv.org/abs/2302.04610) <br>
   Lemin Kong, **Jiajin Li**, Anthony Man-Cho So. <br>
+  
+- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br>Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**. <br>
   
 - Synthetic Principle Component Design: Fast Covariate Balancing with Synthetic Controls<br>
   Yiping Lu,  **Jiajin Li**, Lexing Ying,  Jose Blanchet. <br>
@@ -53,8 +56,7 @@ author_profile: true
 - Deconvolutional Networks on Graph Data [[paper]](https://arxiv.org/abs/2110.15528) [[code]]() <br>
   Jia Li, **Jiajin Li**, Yang Liu, Jianwei Yu, Yueting Li, Hong Cheng. <br>
   Neural Information Processing Systems (**NeurIPS**), 2021. 
-- Understanding Notions of Stationarity in Nonsmooth Optimization [[paper]](https://ieeexplore.ieee.org/document/9186389) 
-  <br>
+- Understanding Notions of Stationarity in Nonsmooth Optimization [[paper]](https://ieeexplore.ieee.org/document/9186389) <br>
   **Jiajin Li**, Anthony Man-Cho So, Wing-Kin Ma. <br>
    IEEE Signal Processing Magazine (**SPM**), 2020. 
 - Fast Epigraphical Projection-based Incremental Algorithms for Wasserstein Distributionally Robust SVM [[paper]](https://arxiv.org/abs/2010.12865) [[code]]() <br>
@@ -69,8 +71,5 @@ author_profile: true
 - A First-Order Algorithmic Framework for  Distributionally Robust Logistic Regression  [[paper]](https://arxiv.org/abs/1910.12778) [[code]](https://github.com/gerrili1996/DRLR_NIPS2019_exp)<br>
   **Jiajin Li**, Sen Huang, Anthony Man-Cho So. <br>
   Neural Information Processing Systems (**NeurIPS**), 2019. 
-- Policy Optimization with Second-Order Advantage Information  [[paper]](https://arxiv.org/abs/1805.03586) [[code]](https://github.com/wangbx66/Action-Subspace-Dependent) <br>
-  **Jiajin Li**$^\star$, Baoxiang Wang.  <br>
+- Policy Optimization with Second-Order Advantage Information  [[paper]](https://arxiv.org/abs/1805.03586) [[code]](https://github.com/wangbx66/Action-Subspace-Dependent) <br>($\alpha$-$\beta$ order) **Jiajin Li**, Baoxiang Wang.  <br>
   International Joint Conference on Artificial Intelligence (**IJCAI**), 2018. 
-
-$^\star$ stands for alphabetical order.
