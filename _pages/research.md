@@ -39,11 +39,9 @@ By identifying and further exploiting these useful structures from the dual form
 Nonsmooth Nonconvex-Nonconcave minimax optimization has gained traction in machine learning.  However, there are still several fundamental open problems that are under-explored:  (1) most existing works focus on the gradient-descent-ascent (GDA) variants that can only be applied when the objective function is smooth (gradient information is available); (2)  all existing algorithms for general nonconvex-nonconcave minimax problems, cannot be guaranteed to converge and even suffer from the *limit cycle* phenomenon. Their global convergence relies on uncheckable regularity conditions. My recent research works provide satisfactory answers to the above issues, which provide new algorithmic frameworks and novel analytic techniques in the context of minimax optimization.
 
 - Nonsmooth Nonconvex-Nonconcave Minimax Optimization: Primal-Dual Balancing and Iteration Complexity Analysis [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
-  **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>The preliminary version has been accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
+  **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>The preliminary version has been accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.<br>Submitted to **Mathematical Programming**. 
 
-  Submitted to **Mathematical Programming**. 
-
-- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br>Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**. <br>
+- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br>Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**. <br>Submitted. 
 
 - Understanding Notions of Stationarity in Nonsmooth Optimization [[paper]](https://ieeexplore.ieee.org/document/9186389) <br>
   **Jiajin Li**, Anthony Man-Cho So, Wing-Kin Ma. <br>IEEE Signal Processing Magazine (**SPM**), 2020. 
@@ -64,7 +62,7 @@ Optimization of infinite-dimensional functionals of probability measures arises 
 
 The objective of distributionally robust decision-making is to enable informed decisions in uncertain circumstances when the assumed model or training environment does not align with the actual context in which the decision will be implemented. This situation often arises in scenarios with highly dynamic or non-stationary environments, or when training is limited to a simulated environment due to various constraints. Distributionally robust optimization (DRO) formulations rely on min-max games, where a manager engages in a game against a fictitious adversary to analyze the potential consequences of model inaccuracies. This methodology has a well-established history in the economics literature and control theory. Inaccuracies in probabilistic models can stem from incorrect likelihoods, misspecified actual outcomes, or both. Traditionally, these types of model inaccuracies have been addressed separately.  My research aims to provide a **unified** perspective by incorporating the theory of **optimal transport with martingale constraints**. We try to encompass and extend existing DRO formulations while also introducing new ones. Moreover, our findings have also revealed that the incorporation of martingale constraints in conventional DRO models has far-reaching implications.
 
-- Unifying Distributionally Robust Optimization via Optimal Transport Theory  [Coming soon] <br>
+- Unifying Distributionally Robust Optimization via Optimal Transport Theory  [arxiv] <br>
   Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
 
 - Tikhonov Regularization is Optimal Transport Robust under Martingale Constraints [[arxiv]](https://arxiv.org/abs/2210.01413) <br>
@@ -81,17 +79,14 @@ The Gromov-Wasserstein (GW) distance provides a flexible way to compare and coup
 
 - Fast Provably Convergent Algorithms for Gromov-Wasserstein in Graph Data [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>
-
 - A Convergent Single-Loop Algorithm for Gromov-Wasserstein in Graph Data  <br>
-  **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>International Conference on Learning Representation (**ICLR**), 2023. 
-
+  **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>International Conference on Learning Representation (**ICLR**), 2023.
 - Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport [[code]](https://github.com/squareRoot3/SLOTAlign)<br>
   Jianheng Tang, Weiqi Zhang,  **Jiajin Li**,  Kangfei Zhao, Fugee Tsung, Jia Li. <br>
   International Conference on Data Engineering  (**ICDE**), 2023.
 
-  
-
-
+- Outlier-Robust Gromov Wasserstein for Graph Data [[arxiv]](https://arxiv.org/abs/2302.04610) <br>
+  Lemin Kong, **Jiajin Li**, Anthony Man-Cho So. <br>Submitted. 
 
 
 

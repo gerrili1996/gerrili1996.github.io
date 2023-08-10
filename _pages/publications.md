@@ -6,14 +6,12 @@ author_profile: true
 ---
 
 ## Preprints and Submitted
-- Unifying Distributionally Robust Optimization via Optimal Transport Theory  [Coming soon] <br>($\alpha$-$\beta$ order) Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
+- Unifying Distributionally Robust Optimization via Optimal Transport Theory  [arxiv] <br>($\alpha$-$\beta$ order) Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
   
 - Nonsmooth Nonconvex-Nonconcave Minimax Optimization: Primal-Dual Balancing and Iteration Complexity Analysis [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
   **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>
 
-  Submitted to **Mathematical Programming**. 
-  
-  Preliminary version accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
+  Submitted to **Mathematical Programming**. <br>Preliminary version accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
   
 - Outlier-Robust Gromov Wasserstein for Graph Data [[arxiv]](https://arxiv.org/abs/2302.04610) <br>
   Lemin Kong, **Jiajin Li**, Anthony Man-Cho So. <br>
@@ -37,7 +35,7 @@ author_profile: true
 - Learning Proximal Operators to Discover Multiple Optima [[arxiv\]](https://arxiv.org/pdf/2201.11945.pdf) <br>
   Lingxiao Li, Noam Aigerman, Vladimir G. Kim, **Jiajin Li**, Kristjan Greenewald, Mikhail Yurochkin, Justin Solomon. <br>
   International Conference on Learning Representation  (**ICLR**), 2023.
-- Wasserstein Distributionally Robust Linear-Quadratic Estimation under Martingale Constraints [[paper]](https://proceedings.mlr.press/v206/lotidis23a/lotidis23a.pdf) <br>Kyriakos Lotidis, Nicholas Bambos, Jose Blanche,  **Jiajin Li**. <br>International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2023.
+- Wasserstein Distributionally Robust Linear-Quadratic Estimation under Martingale Constraints [[paper]](https://proceedings.mlr.press/v206/lotidis23a/lotidis23a.pdf) <br>Kyriakos Lotidis, Nicholas Bambos, Jose Blanchet,  **Jiajin Li**. <br>International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2023.
 - Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport<br>
   Jianheng Tang, Weiqi Zhang,  **Jiajin Li**,  Kangfei Zhao, Fugee Tsung, Jia Li. <br>
   International Conference on Data Engineering  (**ICDE**), 2023.

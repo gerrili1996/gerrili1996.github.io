@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-- Unifying Distributionally Robust Optimization via Martingale-Constrained Optimal Transport 
+- Unifying Distributionally Robust Optimization via Optimal Transport Theory
     - International Conference Stochastic Programming, July, 2023. 
 - Trade-off among Infeasibility, Efficiency and Accuracy for Gromov-Wasserstein Computation
     - SIAM Conference on Optimization (OP23), June  2023. 
