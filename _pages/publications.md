@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Preprints and Submitted
-- Unifying Distributionally Robust Optimization via Optimal Transport Theory  [arxiv] <br>($\alpha$-$\beta$ order) Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
+- Unifying Distributionally Robust Optimization via Optimal Transport Theory  [[arxiv]](https://arxiv.org/abs/2308.05414) <br>($\alpha$-$\beta$ order) Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
   
 - Nonsmooth Nonconvex-Nonconcave Minimax Optimization: Primal-Dual Balancing and Iteration Complexity Analysis [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
   **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>Submitted to **Mathematical Programming**. <br>Preliminary version accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
