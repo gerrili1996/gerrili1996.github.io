@@ -11,6 +11,12 @@ redirect_from:
 Currently, I am a postdoctoral researcher in [Department of Management Science and Engineering (MS&E)](https://msande.stanford.edu/) at [Stanford University](https://www.stanford.edu/), hosted by [Prof. Jose Blanchet](https://web.stanford.edu/~jblanche/). I also work closely with [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/).  Previously, I received my Ph.D. degree in [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) from the [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) in 2021, where I was fortunate to be advised by [Prof. Anthony Man-Cho So](https://www1.se.cuhk.edu.hk/~manchoso/). From Aug 2020 to Mar 2021, I worked with [Prof. Justin Solomon](https://people.csail.mit.edu/jsolomon/) as a visiting Ph.D student in the [Geometric Data Processing Group](http://groups.csail.mit.edu/gdpgroup/index.html) at Massachusetts Institute of Technology (MIT).  Prior to joining CUHK, I obtained my bachelor degree in Statistics from Chongqing University.
 
 
+
+
+## I will be on the 2023-2024 academic job market.
+
+
+
 # Research Interests 
 
 My research resides at the intersection of **mathematical optimization** and **machine learning**. I primarily concentrate on the theoretical and computational underpinnings required to solve data-driven decision-making problems. My specific areas of focus include:
@@ -22,7 +28,6 @@ My research resides at the intersection of **mathematical optimization** and **m
 
 
 
-## I will be on the 2023-2024 academic job market. </font>
 
 
 
