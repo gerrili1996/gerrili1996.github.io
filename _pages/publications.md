@@ -7,27 +7,32 @@ author_profile: true
 
 ## Preprints and Submitted
 - Unifying Distributionally Robust Optimization via Optimal Transport Theory  [[arxiv]](https://arxiv.org/abs/2308.05414) <br>($\alpha$-$\beta$ order) Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
+To be submitted to **SIAM Journal on Optimization**. 
   
 - Nonsmooth Nonconvex-Nonconcave Minimax Optimization: Primal-Dual Balancing and Iteration Complexity Analysis [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
-  **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>Submitted to **Mathematical Programming**. <br>Preliminary version accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
+  **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>
+  Under review at **Mathematical Programming**. <br>Preliminary version accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
+ 
 
-- Outlier-Robust Gromov Wasserstein for Graph Data [[arxiv]](https://arxiv.org/abs/2302.04610) <br>
-  Lemin Kong, **Jiajin Li**, Anthony Man-Cho So. <br>
-  
-- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br>Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**. <br>
+- Trade-off among Infeasibility, Efficiency and Accuracy for Gromov-Wasserstein Computation [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
+  **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose 
+  Blanchet. <br>
+  To be submitted to **Journal of Machine Learning Research**. 
+
   
 - Synthetic Principle Component Design: Fast Covariate Balancing with Synthetic Controls<br>
   Yiping Lu,  **Jiajin Li**, Lexing Ying,  Jose Blanchet. <br>
   NeurIPS 2022 Workshop on Causality for Real-world Impact. 
   
-- Fast Provably Convergent Algorithms for Gromov-Wasserstein  in Graph Data [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
-  **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose 
-  Blanchet. <br>
 
 
 
 ## Publication
-
+- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br> Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**$\star$. <br>
+Neural Information Processing Systems (**NeurIPS**), 2023.
+- Outlier-Robust Gromov Wasserstein for Graph Data [[arxiv]](https://arxiv.org/abs/2302.04610) <br>
+  Lemin Kong, **Jiajin Li**, Anthony Man-Cho So. <br>
+  Neural Information Processing Systems (**NeurIPS**), 2023. [**Spotlight presentation.**]
 - A Convergent Single-Loop Algorithm for Relaxation of Gromov-Wasserstein in Graph Data [[paper]](https://openreview.net/pdf?id=0jxPyVWmiiF)<br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose Blanchet. <br>International Conference on Learning Representation  (**ICLR**), 2023.
 - Learning Proximal Operators to Discover Multiple Optima [[arxiv\]](https://arxiv.org/pdf/2201.11945.pdf) <br>
