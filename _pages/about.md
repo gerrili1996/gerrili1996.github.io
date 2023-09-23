@@ -22,7 +22,7 @@ My research resides at the intersection of **mathematical optimization** and **m
 
 
 
-### <font color=black> **I will be on the 2023-2024 academic job market.** </font>
+##<font color=black> I will be on the 2023-2024 academic job market. </font>
 
 
 
