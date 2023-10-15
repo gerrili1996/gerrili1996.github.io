@@ -16,6 +16,10 @@ Currently, I am a postdoctoral researcher in [Department of Management Science a
 ## I will be on the 2023-2024 academic job market.
 
 
+# Upcoming Talks 
+"Nonconvex Nonconcave Minimax Optimization for Data-Driven Decision Making", 2023 INFORMS Annual Meeting
+
+- Monday 10/16, 10:45-11:00 AM, CC-North 123
 
 # Research Interests 
 
