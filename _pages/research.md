@@ -5,27 +5,31 @@ permalink: /research/
 author_profile: true
 ---
 
-My research resides at the intersection of **mathematical optimization** and **machine learning**. I primarily concentrate on the theoretical and computational underpinnings required to solve data-driven decision-making problems. My specific areas of focus include:
+My research interests lie in mathematical optimization and its applications in data-driven decision making, machine learning, and data science. My goal is to develop novel theoretical frameworks to study and analyze the convergence and statistical behaviors of optimization algorithms. By leveraging these insights from theoretical development, I design efficient algorithms tailored to data-driven optimization problems in these areas, such as graph learning, finance, experimental design, etc. 
+
+ My specific areas of focus include:
 
 1. Theoretical foundations of nonsmooth, nonconvex-nonconcave minimax optimization:  Convergence analysis and algorithmic design;
-2.  Distributionally robust optimization: Aiming for a  unified approach with computational tractability; 
-3. Optimization within probability spaces employing Wasserstein geometry;
+2. Distributionally robust optimization: Aiming for a  unified approach with computational tractability; 
+3. Optimization in probability spaces with Wasserstein geometry;
 4. Large-scale computational challenges in optimal transport with applications to graph learning.  
 
-
+```
+<img src="images/research_overview.jpeg" />
+```
 
 ### Theoretical and Computational Underpinnings of Nonsmooth-Nonconvex Nonconcave Minimax Optimization
 
 Nonconvex-nonconcave minimax optimization has gained widespread interest in recent years in machine learning and data science. Most existing works focus on variants of gradient descent-ascent (GDA) algorithms due to their simplicity. However, these algorithms have several limitations: (1) They are only applicable to smooth problems. (2) They may not converge globally and can even suffer from **limit cycles**. (3) No universal algorithm can be applied to all minimax optimization problems.
 
-My research gives an affirmative answer to these questions for a broad class of nonsmooth nonconvex-nonconcave problem. To be specific, we focus on the setting whether the primal or dual function possesses the KL property with an exponent $\theta\in(0,1)$ and enjoys the convex composite type nonsmooth structure. 
-The key techinical novelty lies in a new convergence analysis framework, the key components of which are two newly developed nonsmooth/smooth primal error bound and dual error bound. These error bound shed light on both a conceptual and quantitative characterization of the optimal primal-dual balancing, which I believe serves as a new algorithm design principle  for minimax optimization problems in the future.
+My research gives an affirmative answer to these questions for a broad class of nonsmooth nonconvex-nonconcave problem. To be specific, we focus on the setting whether the primal or dual function possesses the  Kurdyka-Łojasiewicz condition and enjoys the convex composite type nonsmooth structure. The key to minimax optimization is balancing between the primal and dual updates. The optimality of this balance directly impacts the convergence rate.   I introduce a new concept called the primal-dual error bound, which characterizes ``the degree'' of this balance using tailored error bound theory. This fresh perspective provides a new algorithm design principle: optimal primal-dual balancing. That is, we should pay more attention to the player with the worse growth condition. The best convergence rate we can obtain is determined by the slower of the primal and dual updates. Moreover, this primal-dual error bound serves as a milestone for developing a unified convergence analysis framework for a broad class of nonconvex-nonconcave minimax optimization problems, culminating in the first universally applicable algorithm. 
 
 - Nonsmooth Nonconvex-Nonconcave Minimax Optimization: Primal-Dual Balancing and Iteration Complexity Analysis [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
   **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>The preliminary version has been accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.<br>Under review at **Mathematical Programming**. 
 
-- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br>Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**. <br>
-Neural Information Processing Systems (**NeurIPS**), 2023. 
+- Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br>Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**. <br>
+  Neural Information Processing Systems (**NeurIPS**), 2023. 
+
 - Understanding Notions of Stationarity in Nonsmooth Optimization [[paper]](https://ieeexplore.ieee.org/document/9186389) <br>
   **Jiajin Li**, Anthony Man-Cho So, Wing-Kin Ma. <br>IEEE Signal Processing Magazine (**SPM**), 2020. 
 
@@ -63,8 +67,6 @@ To be submitted to **SIAM Journal on Optimization**.
 
 - Wasserstein Distributionally Robust Linear-Quadratic Estimation under Martingale Constraints [[paper]](https://proceedings.mlr.press/v206/lotidis23a/lotidis23a.pdf) <br>Kyriakos Lotidis, Nicholas Bambos, Jose Blanche,  **Jiajin Li**. <br>International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2023.
 
-
-
 ### Optimization Methods in Probability Space
 
 Optimization of infinite-dimensional functionals of probability measures arises naturally in a wide range of areas including statistical learning and artificial intelligence (e.g. generative adversarial networks). The proposed modified Frank-Wolfe procedure takes advantage of Wasserstein space (Riemannian geometry) and strong duality results recently developed in Distributionally Robust Optimization (DRO) so that gradient steps in the Wasserstein space can be efficiently computed using finite-dimensional convex optimization methods. Our works give the first non-asymptotic convergence rate and further provide the sample complexity. I believe this is the first practically implementable algorithm in the literature.
@@ -72,9 +74,7 @@ Optimization of infinite-dimensional functionals of probability measures arises 
 - Modified Frank Wolfe in Probability Space [[paper]](https://proceedings.neurips.cc/paper/2021/hash/79121bb953a3bd47c076f20234bafd2e-Abstract.html) [[code]]() <br>
   Carson Kent, **Jiajin Li**, Jose Blanchet, Peter Glynn. <br>
   Neural Information Processing Systems (**NeurIPS**), 2021. <br>
-  Journal version to be submitted to **Mathematics of Operations Research**. 
-
-  
+  Journal version to be submitted to **Mathematical Programming** *(preprint available upon request)*. 
 
 
 ### Optimal Transport Meets Graph Learning 

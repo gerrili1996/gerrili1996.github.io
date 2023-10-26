@@ -23,12 +23,12 @@ Currently, I am a postdoctoral researcher in [Department of Management Science a
 
 # Research Interests 
 
-My research resides at the intersection of **mathematical optimization** and **machine learning**. I primarily concentrate on the theoretical and computational underpinnings required to solve data-driven decision-making problems. My specific areas of focus include:
+My research interests lie in mathematical optimization and its applications in data-driven decision making, machine learning, and data science.  My specific areas of focus include:
 
 - Theoretical foundations of nonsmooth, nonconvex-nonconcave minimax optimization:  Convergence analysis and algorithmic design;
 - Distributionally robust optimization: Aiming for a  unified approach with computational tractability; 
-- Optimization within probability spaces employing Wasserstein geometry;
--  Large-scale computational challenges in optimal transport with applications to graph learning.  
+- Optimization in probability spaces with Wasserstein geometry;
+- Large-scale computational challenges in optimal transport with applications to graph learning.  
 
 
 

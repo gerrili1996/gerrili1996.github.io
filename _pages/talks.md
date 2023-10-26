@@ -7,16 +7,18 @@ redirect_from:
   - /markdown.html
 ---
 
+- Nonconvex Nonconcave Minimax Optimization for Data-driven Decision Making 
+    - INFORMS Annual Meeting, October, 2023 [[slides]](https://gerrili1996.github.io/files/Informs_jiajin_2023.pdf). 
 - Unifying Distributionally Robust Optimization via Optimal Transport Theory
-    - International Conference Stochastic Programming, July, 2023. 
+    - International Conference Stochastic Programming, July, 2023 [[slides]](https://gerrili1996.github.io/files/davis_unification_DRO.pdf). 
 - Nonsmooth  Nonconvex Nonconcave Minimax Optimization
     - NeurIPS 2022 Workshop on Optimization for Machine Learning, December, 2022  [[slides]](https://gerrili1996.github.io/files/OPT_2022_Minimax_jiajin Li.pdf).
     - International Conference on Continuous Optimization (ICCOPT), July, 2022 [[slides]](https://gerrili1996.github.io/files/iccopt_2022_jiajin.pdf). 
     - Department of Mathematics, Rensselaer Polytechnic Institute, February, 2023.
 - Trade-off among Infeasibility, Efficiency and Accuracy for Gromov-Wasserstein Computation
-    - SIAM Conference on Optimization (OP23), June  2023. 
+    - SIAM Conference on Optimization (OP23), June  2023  [[slides]](https://gerrili1996.github.io/files/GW-SIAMOP.pdf).
 - Tikhonov Regularization is Optimal Transport Robust under Martingale Constraints [[slides]](https://gerrili1996.github.io/files/Slides_informs_martingale_2022.pdf)
-    - INFORMS Anuual Meeting, October, 2022.
+    - INFORMS Annual Meeting, October, 2022.
     - UT Austin EECS Rising Stars Workshop, October, 2022.
 - Modified Frank-Wolfe in Probability Space [[slides]](https://gerrili1996.github.io/files/fw_erice_jiajin.pdf)
     - Workshop “Robustness and Resilience in Stochastic Optimization and Statistical Learning:
