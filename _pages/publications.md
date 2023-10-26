@@ -28,7 +28,8 @@ To be submitted to **SIAM Journal on Optimization**.
 
 
 ## Publication
-- Doubly Smoothed GDA: Global Convergent Algorithm for Constrained Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br> Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**$\star$. <br>
+- Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br> 
+Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**$\star$. <br>
 Neural Information Processing Systems (**NeurIPS**), 2023.
 - Outlier-Robust Gromov Wasserstein for Graph Data [[arxiv]](https://arxiv.org/abs/2302.04610) <br>
   Lemin Kong, **Jiajin Li**, Anthony Man-Cho So. <br>

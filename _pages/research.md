@@ -15,7 +15,7 @@ My research interests lie in mathematical optimization and its applications in d
 4. Large-scale computational challenges in optimal transport with applications to graph learning.  
 
 ```
-<img src="images/research_overview.jpeg" />
+<img alt="Research Overview" src="../images/research_overview.jpeg" />
 ```
 
 ### Theoretical and Computational Underpinnings of Nonsmooth-Nonconvex Nonconcave Minimax Optimization
