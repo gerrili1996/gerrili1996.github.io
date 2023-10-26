@@ -14,9 +14,7 @@ My research interests lie in mathematical optimization and its applications in d
 3. Optimization in probability spaces with Wasserstein geometry;
 4. Large-scale computational challenges in optimal transport with applications to graph learning.  
 
-```
-<img alt="Research Overview" src="../images/research_overview.jpeg" />
-```
+![Research Overview](https://gerrili1996.github.io/images/research_overview.jpeg)
 
 ### Theoretical and Computational Underpinnings of Nonsmooth-Nonconvex Nonconcave Minimax Optimization
 
