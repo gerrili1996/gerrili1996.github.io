@@ -6,30 +6,37 @@ author_profile: true
 ---
 
 ## Preprints and Submitted
-- Unifying Distributionally Robust Optimization via Optimal Transport Theory  [[arxiv]](https://arxiv.org/abs/2308.05414) <br>($\alpha$-$\beta$ order) Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
-To be submitted to **SIAM Journal on Optimization**. 
+
   
 - Nonsmooth Nonconvex-Nonconcave Minimax Optimization: Primal-Dual Balancing and Iteration Complexity Analysis [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
   **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>
-  Under review at **Mathematical Programming**. <br>Preliminary version accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
- 
+  Under revision at **Mathematical Programming**. <br>Preliminary version accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
+
+- Spurious Stationarity and Hardness Results for Mirror Descent [[arxiv]](https://arxiv.org/abs/2404.08073) <br>($\alpha$-$\beta$ order) He Chen,  **Jiajin Li**$^\star$, Anthony Man-Cho So.<br>
+Submitted. 
+
+- Stability Evaluation through Distributional Perturbation Analysis [arxiv soon] <br>($\alpha$-$\beta$ order) Jose Blanchet, Cui Peng,  **Jiajin Li**$^\star$, Jiashuo Liu. <br>
+Submitted. 
+
+- Unifying Distributionally Robust Optimization via Optimal Transport Theory  [[arxiv]](https://arxiv.org/abs/2308.05414) <br>($\alpha$-$\beta$ order) Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
+
+- Distributionally Robust Optimization and Robust Statistics  [[arxiv]](https://arxiv.org/abs/2401.14655) <br>($\alpha$-$\beta$ order) Jose Blanchet,  **Jiajin Li**$^\star$, Sirui Lin, Xuhui Zhang. <br>
+Submitted. 
+
+- Automatic Outilier Rectification via  Optimal Transport [[arxiv]](https://arxiv.org/abs/2403.14067)<br> ($\alpha$-$\beta$ order) Jose Blanchet,  **Jiajin Li**$^\star$, Markus Pelger, Greg Zanotti. <br>
+
 
 - Trade-off among Infeasibility, Efficiency and Accuracy for Gromov-Wasserstein Computation [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose 
   Blanchet. <br>
-  To be submitted to **Journal of Machine Learning Research**. 
 
-  
-- Synthetic Principle Component Design: Fast Covariate Balancing with Synthetic Controls<br>
-  Yiping Lu,  **Jiajin Li**, Lexing Ying,  Jose Blanchet. <br>
-  NeurIPS 2022 Workshop on Causality for Real-world Impact. 
   
 
 
 
 ## Publication
 - Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br> 
-Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**$\star$. <br>
+Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**$^\star$. <br>
 Neural Information Processing Systems (**NeurIPS**), 2023.
 - Outlier-Robust Gromov Wasserstein for Graph Data [[arxiv]](https://arxiv.org/abs/2302.04610) <br>
   Lemin Kong, **Jiajin Li**, Anthony Man-Cho So. <br>
@@ -40,9 +47,6 @@ Neural Information Processing Systems (**NeurIPS**), 2023.
   Lingxiao Li, Noam Aigerman, Vladimir G. Kim, **Jiajin Li**, Kristjan Greenewald, Mikhail Yurochkin, Justin Solomon. <br>
   International Conference on Learning Representation  (**ICLR**), 2023.
 - Wasserstein Distributionally Robust Linear-Quadratic Estimation under Martingale Constraints [[paper]](https://proceedings.mlr.press/v206/lotidis23a/lotidis23a.pdf) <br>Kyriakos Lotidis, Nicholas Bambos, Jose Blanchet,  **Jiajin Li**. <br>International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2023.
-- Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport<br>
-  Jianheng Tang, Weiqi Zhang,  **Jiajin Li**,  Kangfei Zhao, Fugee Tsung, Jia Li. <br>
-  International Conference on Data Engineering  (**ICDE**), 2023.
 - A Splitting Scheme for Flip-Free Distortion Energies [[paper]](https://arxiv.org/abs/2107.05200) [[project page]](http://odedstein.com/projects/flip-free-parametrization/index.html) <br>
   Oded Stein, **Jiajin Li**, Justin Solomon. <br>
   SIAM Journal on Imaging Sciences (**SIIMS**), to appear.

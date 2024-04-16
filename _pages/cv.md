@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[[CV]](https://gerrili1996.github.io/files/CV_2023.pdf)
+[[CV]]()
 
 [[Research Statement]](https://gerrili1996.github.io/files/RS_Jiajin_2023.pdf)
 

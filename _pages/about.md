@@ -13,24 +13,13 @@ Currently, I am a postdoctoral researcher in [Department of Management Science a
 
 
 
-## I will be on the 2023-2024 academic job market.
+#### **Update:**  Starting from July 2024, I will be  an assistant professor at the [Operations & Logistics Division](https://www.sauder.ubc.ca/thought-leadership/divisions/operations-and-logistics) at the [University of British Columbia, Sauder School of Business](https://www.sauder.ubc.ca/).
+ 
 
-
-# Upcoming Talks 
-"Nonconvex Nonconcave Minimax Optimization for Data-Driven Decision Making", 2023 INFORMS Annual Meeting
-
-- Monday 10/16, 10:45-11:00 AM, CC-North 123
 
 # Research Interests 
 
-My research interests lie in mathematical optimization and its applications in data-driven decision making, machine learning, and data science.  My specific areas of focus include:
-
-- Theoretical foundations of nonsmooth, nonconvex-nonconcave minimax optimization:  Convergence analysis and algorithmic design;
-- Distributionally robust optimization: Aiming for a  unified approach with computational tractability; 
-- Optimization in probability spaces with Wasserstein geometry;
-- Large-scale computational challenges in optimal transport with applications to graph learning.  
-
-
+My research interests generally lie in mathematical optimization and machine learning. For my latest research focus, please refer to my recent papers. 
 
 
 
