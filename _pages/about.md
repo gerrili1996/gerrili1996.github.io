@@ -13,7 +13,7 @@ Currently, I am a postdoctoral researcher in [Department of Management Science a
 
 
 
-### **Update:**  Starting from July 2024, I will be  an assistant professor at the [Operations & Logistics Division](https://www.sauder.ubc.ca/thought-leadership/divisions/operations-and-logistics) at the [University of British Columbia, Sauder School of Business](https://www.sauder.ubc.ca/).
+## **Update:**  Starting from July 2024, I will be  an assistant professor at the [Operations & Logistics Division](https://www.sauder.ubc.ca/thought-leadership/divisions/operations-and-logistics) at the [University of British Columbia, Sauder School of Business](https://www.sauder.ubc.ca/).
 
 
  <br>
