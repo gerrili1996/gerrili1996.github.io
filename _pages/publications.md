@@ -11,21 +11,14 @@ author_profile: true
 - Nonsmooth Nonconvex-Nonconcave Minimax Optimization: Primal-Dual Balancing and Iteration Complexity Analysis [[arxiv]](https://arxiv.org/abs/2209.10825) <br>
   **Jiajin Li**, Linglingzhi Zhu, Anthony Man-Cho So. <br>
   Under revision at **Mathematical Programming**. <br>Preliminary version accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
-
 - Spurious Stationarity and Hardness Results for Mirror Descent [[arxiv]](https://arxiv.org/abs/2404.08073) <br>($\alpha$-$\beta$ order) He Chen,  **Jiajin Li**$^\star$, Anthony Man-Cho So.<br>
 Submitted. 
-
 - Stability Evaluation through Distributional Perturbation Analysis [arxiv soon] <br>($\alpha$-$\beta$ order) Jose Blanchet, Cui Peng,  **Jiajin Li**$^\star$, Jiashuo Liu. <br>
 Submitted. 
-
 - Unifying Distributionally Robust Optimization via Optimal Transport Theory  [[arxiv]](https://arxiv.org/abs/2308.05414) <br>($\alpha$-$\beta$ order) Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
-
 - Distributionally Robust Optimization and Robust Statistics  [[arxiv]](https://arxiv.org/abs/2401.14655) <br>($\alpha$-$\beta$ order) Jose Blanchet,  **Jiajin Li**$^\star$, Sirui Lin, Xuhui Zhang. <br>
 Submitted. 
-
 - Automatic Outilier Rectification via  Optimal Transport [[arxiv]](https://arxiv.org/abs/2403.14067)<br> ($\alpha$-$\beta$ order) Jose Blanchet,  **Jiajin Li**$^\star$, Markus Pelger, Greg Zanotti. <br>
-
-
 - Trade-off among Infeasibility, Efficiency and Accuracy for Gromov-Wasserstein Computation [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose 
   Blanchet. <br>
