@@ -28,6 +28,10 @@ Submitted.
 
 
 ## Publication
+
+-  Synthetic Principal Component Design: Fast Covariate Balancing with Synthetic Controls [[arxiv]](https://arxiv.org/pdf/2211.15241) <br> 
+Yiping Lu, **Jiajin Li**, Lexing Ying, Jose Blancet. <br>
+ 40th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2024. [**Oral**]
 - Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization [[arxiv]](https://arxiv.org/abs/2212.12978) <br> 
 Taoli Zheng, Linglingzhi Zhu, Anthony Man-Cho So, Jose Blanchet, **Jiajin Li**$^\star$. <br>
 Neural Information Processing Systems (**NeurIPS**), 2023.
