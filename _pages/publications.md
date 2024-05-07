@@ -13,7 +13,7 @@ author_profile: true
   Under revision at **Mathematical Programming**. <br>Preliminary version accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (**OPT 2022**), **Oral**.
 - Spurious Stationarity and Hardness Results for Mirror Descent [[arxiv]](https://arxiv.org/abs/2404.08073) <br>($\alpha$-$\beta$ order) He Chen,  **Jiajin Li**$^\star$, Anthony Man-Cho So.<br>
 Submitted. 
-- Stability Evaluation through Distributional Perturbation Analysis [arxiv soon] <br>($\alpha$-$\beta$ order) Jose Blanchet, Cui Peng,  **Jiajin Li**$^\star$, Jiashuo Liu. <br>
+- Stability Evaluation through Distributional Perturbation Analysis [[arxiv]](https://arxiv.org/abs/2405.03198) <br>($\alpha$-$\beta$ order) Jose Blanchet, Cui Peng,  **Jiajin Li**$^\star$, Jiashuo Liu. <br>
 Submitted. 
 - Unifying Distributionally Robust Optimization via Optimal Transport Theory  [[arxiv]](https://arxiv.org/abs/2308.05414) <br>($\alpha$-$\beta$ order) Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
 - Distributionally Robust Optimization and Robust Statistics  [[arxiv]](https://arxiv.org/abs/2401.14655) <br>($\alpha$-$\beta$ order) Jose Blanchet,  **Jiajin Li**$^\star$, Sirui Lin, Xuhui Zhang. <br>
