@@ -27,7 +27,7 @@ Submitted.
 
 ## Publication
 - Stability Evaluation through Distributional Perturbation Analysis [[arxiv]](https://arxiv.org/abs/2405.03198) <br>($\alpha$-$\beta$ order) Jose Blanchet, Cui Peng,  **Jiajin Li**$^\star$, Jiashuo Liu. <br>
-Accepted by 
+Accepted by **ICML** 2024. 
 -  Synthetic Principal Component Design: Fast Covariate Balancing with Synthetic Controls [[arxiv]](https://arxiv.org/pdf/2211.15241) <br> 
 Yiping Lu, **Jiajin Li**, Lexing Ying, Jose Blancet. <br>
  40th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2024. [**Oral**]
