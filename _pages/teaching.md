@@ -9,9 +9,10 @@ redirect_from:
 
 ## Teaching 
 
-#### **Current Term**: 
+### **Current Term**: 
 
 - [COMM 616 Optimization Theory and Applications](https://gerrili1996.github.io/comm616) 
+	
 	A topic course on "**Modern Optimization with Applications in Machine Learning and Operation Research** "
 
 
