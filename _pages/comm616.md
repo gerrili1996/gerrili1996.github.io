@@ -14,7 +14,7 @@ The course also covers lower complexity bounds for different function classes, p
 
 ## General Information 
 
-Please see   [[this information sheet]]() for syllabus and grading details. 
+Please see  [[this information sheet]](https://gerrili1996.github.io/files/comm616_infor.pdf) for syllabus and grading details. 
 
 ## Lecture Notes 
 
