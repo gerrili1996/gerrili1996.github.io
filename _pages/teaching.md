@@ -9,14 +9,12 @@ redirect_from:
 
 ## Teaching 
 
-I was a teaching assistant for:
-- [ENGG 5501 Foundations of Optimization](https://www1.se.cuhk.edu.hk/~manchoso/2021/engg5501/), 2020 Fall
-- [ESTR 2004 Discrete Mathematics for Engineers (ELITE Stream)](https://www1.se.cuhk.edu.hk/~manchoso/2021/estr2004/), 2020 Fall
-- [ENGG 5501 Foundations of Optimization](https://www1.se.cuhk.edu.hk/~manchoso/1920/engg5501/), 2019 Fall
-- [ESTR 2004 Discrete Mathematics for Engineers (ELITE Stream)](https://www1.se.cuhk.edu.hk/~manchoso/1920/estr2004/), 2019 Fall
-- SEEM 4670 Service Systems, 2019 Spring
-- [ENGG 2440B Discrete Mathematics for Engineers](https://www1.se.cuhk.edu.hk/~manchoso/1819/engg2440b/), 2018 Fall
-- [ENGG 1410A Linear Algebra and Vector Calculus](http://course.cse.cuhk.edu.hk/~engg1410/), 2018 Spring
+#### **Current Term**: 
+
+- [COMM 616 Optimization Theory and Applications](https://gerrili1996.github.io/comm616) 
+	A topic course on "**Modern Optimization with Applications in Machine Learning and Operation Research** "
+
+
 
 ## Professional Services
 
@@ -27,9 +25,11 @@ Reviews for
 - The International Conference on Learning Representations (ICLR) 2022, 2023
 - International Conference on Artificial Intelligence and Statistics (AISTATS) 2023
 - Mathematical Programming 
-- Mathematics of Operations Research 
 - SIAM Journal on Optimization
+- Mathematics of Operations Research 
+- Management Science 
 - Operation Research 
+- Journal of Machine Learning Research 
 - Journal of Global Optimization
 - IEEE Transactions on Information Theory
 - IEEE Transactions on Knowledge and Data Engineering
