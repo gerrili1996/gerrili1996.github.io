@@ -13,7 +13,7 @@ redirect_from:
 
 - [COMM 616 Optimization Theory and Applications](https://gerrili1996.github.io/comm616) 
 	
-	A topic course on "**Modern Optimization with Applications in Machine Learning and Operation Research** "
+	A topic course on **Modern Optimization with Applications in Machine Learning and Operation Research**
 
 
 
