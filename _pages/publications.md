@@ -14,18 +14,17 @@ author_profile: true
 - Spurious Stationarity and Hardness Results for Mirror Descent [[arxiv]](https://arxiv.org/abs/2404.08073) <br>($\alpha$-$\beta$ order) He Chen,  **Jiajin Li**$^\star$, Anthony Man-Cho So.<br>
 Submitted. 
 - Unifying Distributionally Robust Optimization via Optimal Transport Theory  [[arxiv]](https://arxiv.org/abs/2308.05414) <br>($\alpha$-$\beta$ order) Jose Blanchet, Daniel Kuhn,  **Jiajin Li**$^\star$, Bahar Taskesen. <br>
-- Distributionally Robust Optimization and Robust Statistics  [[arxiv]](https://arxiv.org/abs/2401.14655) <br>($\alpha$-$\beta$ order) Jose Blanchet,  **Jiajin Li**$^\star$, Sirui Lin, Xuhui Zhang. <br>
-Submitted. 
 - Automatic Outilier Rectification via  Optimal Transport [[arxiv]](https://arxiv.org/abs/2403.14067)<br> ($\alpha$-$\beta$ order) Jose Blanchet,  **Jiajin Li**$^\star$, Markus Pelger, Greg Zanotti. <br>
 - Trade-off among Infeasibility, Efficiency and Accuracy for Gromov-Wasserstein Computation [[arxiv]](https://arxiv.org/abs/2205.08115) <br>
   **Jiajin Li**,  Jianheng Tang, Lemin Kong, Huikang Liu,  Jia Li, Anthony Man-Cho So, Jose 
   Blanchet. <br>
 
-  
 
 
 
 ## Publication
+- Distributionally Robust Optimization and Robust Statistics  [[arxiv]](https://arxiv.org/abs/2401.14655) <br>($\alpha$-$\beta$ order) Jose Blanchet,  **Jiajin Li**$^\star$, Sirui Lin, Xuhui Zhang. <br>
+Accepted  by **Statistical Science**. 
 - Stability Evaluation through Distributional Perturbation Analysis [[arxiv]](https://arxiv.org/abs/2405.03198) <br>($\alpha$-$\beta$ order) Jose Blanchet, Cui Peng,  **Jiajin Li**$^\star$, Jiashuo Liu. <br>
 Accepted by **ICML** 2024. 
 -  Synthetic Principal Component Design: Fast Covariate Balancing with Synthetic Controls [[arxiv]](https://arxiv.org/pdf/2211.15241) <br> 
