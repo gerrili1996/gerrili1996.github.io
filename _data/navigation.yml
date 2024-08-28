@@ -9,14 +9,13 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching and Services"
-    url: /teaching/    
-    
+  - title: "Services"
+    url: /services/    
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+
+  - title: "COMM 616"
+    url: /comm616/
     
 #  - title: "Guide"
 #    url: /markdown/

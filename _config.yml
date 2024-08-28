@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiajin Li"
 title_separator          : "-"
 name                     : &name "Jiajin Li"
-description              : &description "Postdoctoral Researcher at Stanford University"
+description              : &description "Assistant Professor at UBC"
 url                      : https://gerrili1996.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gerrili1996/gerrili1996.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiajin Li"
   avatar           : "photo.jpg"
-  bio              : "Postdoctoral Researcher at Stanford University"
-  location         : "Palo Alto, CA"
+  bio              : "Assistant Professor at UBC"
+  location         : "Vancouver, BC"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IwwqUhYAAAAJ&hl=en"
-  email            : "jiajinli@stanford.edu"
+  email            : "jiajin.li@sauder.ubc.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

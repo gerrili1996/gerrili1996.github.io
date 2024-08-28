@@ -7,9 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
-- Unveiling Spurious Stationary Points for Bregman
-Divergence-based Algorithms
-	- 25th International Symposium on Mathematical Programming, July, 2024. 
+- Stability Evaluation via Distributional Perturbation Analysis
+	- The Chinese University of Hong Kong, Department of Statistics, July, 2024. 
 
 - Nonsmooth Nonconvex-Nonconcave Minimax OPT: Algorithm Design and Convergence Analysis
 	- University of British Columbia, Sauder  School of Business, Virtual, November, 2023. 
@@ -21,16 +20,13 @@ Divergence-based Algorithms
 	- Purdue University, School of Industrial Engineering, January, 2024.
 	- INFORMS Optimization Society 2024 Conference, March, 2024. 
 
-
 - Nonconvex Nonconcave Minimax Optimization for Data-driven Decision Making 
     - INFORMS Annual Meeting, October, 2023 [[slides]](https://gerrili1996.github.io/files/Informs_jiajin_2023.pdf). 
 
-    
 - Trade-off among Infeasibility, Efficiency and Accuracy for Gromov-Wasserstein Computation
     - SIAM Conference on Optimization (OP23), June  2023  [[slides]](https://gerrili1996.github.io/files/GW-SIAMOP.pdf).
     -  Women in Optimal Transport, April 2024.
 
-    
 - Unifying Distributionally Robust Optimization via Optimal Transport Theory
     - International Conference Stochastic Programming, July, 2023 [[slides]](https://gerrili1996.github.io/files/davis_unification_DRO.pdf). 
 - Nonsmooth  Nonconvex Nonconcave Minimax Optimization
