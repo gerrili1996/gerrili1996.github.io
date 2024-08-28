@@ -8,15 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a postdoctoral researcher in [Department of Management Science and Engineering (MS&E)](https://msande.stanford.edu/) at [Stanford University](https://www.stanford.edu/), hosted by [Prof. Jose Blanchet](https://web.stanford.edu/~jblanche/). I also work closely with [Prof. Yinyu Ye](https://web.stanford.edu/~yyye/).  Previously, I received my Ph.D. degree in [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) from the [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) in 2021, where I was fortunate to be advised by [Prof. Anthony Man-Cho So](https://www1.se.cuhk.edu.hk/~manchoso/). From Aug 2020 to Mar 2021, I worked with [Prof. Justin Solomon](https://people.csail.mit.edu/jsolomon/) as a visiting Ph.D student in the [Geometric Data Processing Group](http://groups.csail.mit.edu/gdpgroup/index.html) at Massachusetts Institute of Technology (MIT).  Prior to joining CUHK, I obtained my bachelor degree in Statistics from Chongqing University.
+I am an assistant professor in [Operations & Logistics Division ](https://www.sauder.ubc.ca/thought-leadership/divisions/operations-and-logistics) at the Sauder School of Business, University of British Columbia.
 
+Previously, I was a postdoctoral researcher in [Department of Management Science and Engineering (MS&E)](https://msande.stanford.edu/) at [Stanford University](https://www.stanford.edu/), hosted by [Prof. Jose Blanchet](https://web.stanford.edu/~jblanche/).  I received my Ph.D. degree in [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/) from the [Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) in 2021, where I was fortunate to be advised by [Prof. Anthony Man-Cho So](https://www1.se.cuhk.edu.hk/~manchoso/). Prior to joining CUHK, I obtained my bachelor degree in Statistics from Chongqing University.
 
-
-
-### <font color="red">  Update:  Starting from July 2024, I will be  an assistant professor at the University of British Columbia, Sauder School of Business. </font>
-
-
- <br>
 
 
 # Research Interests 
@@ -26,8 +21,8 @@ My research interests generally lie in mathematical optimization and machine lea
 
 
 
+<!--
 # News
-
 - [2023.09] Two papers accepted by NeurIPS 2023! One of them was selected as selected as **spotlight** presentations!
 - [2023.02] Two papers accepted by ICLR 2023! 
 - [2023.01] One paper accepted by AISTATS 2023! 
@@ -42,5 +37,7 @@ My research interests generally lie in mathematical optimization and machine lea
 - [2019.12] One paper accepted by ICLR 2020!
 - [2019.09] One paper accepted by NeurIPS 2019!
 - [2018.04] One paper accepted by IJCAI 2018!
+-->
+
 
 <a href="https://clustrmaps.com/site/1bc1p" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=268&t=tt&d=ClGOXY2uKf0Io0DSAJkrBfZlEVYRsuP6Esld81tT5GE&co=ffffff&ct=808080" /></a>
