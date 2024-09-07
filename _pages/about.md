@@ -23,7 +23,7 @@ My research interests generally lie in mathematical optimization and machine lea
 
 # Announcement 
 
-I am actively seeking Ph.D. students with a strong mathematics background or coding, either through the [PhD in Management Science](https://www.sauder.ubc.ca/programs/phd/phd-business-administration/specializations/management-science) at Sauder or the [PhD in Applied Math](https://www.iam.ubc.ca/graduate-studies/how-apply-iam/) at IAM. I am also open to hosting undergraduate or graduate visitors. If you are interested, please feel free to contact me via email.
+I am actively seeking Ph.D. students with a strong mathematics background or coding, either through the [PhD in Management Science](https://www.sauder.ubc.ca/programs/phd/phd-business-administration/specializations/management-science) at Sauder or the [PhD in Applied Math](https://www.iam.ubc.ca/graduate-studies/how-apply-iam/) at IAM.  If you are interested, please feel free to contact me via email.
 
 <!--
 
