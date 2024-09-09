@@ -16,7 +16,13 @@ The course also covers lower complexity bounds for different function classes, p
 
 Please see  [[this information sheet]](https://gerrili1996.github.io/files/comm616_infor.pdf) for syllabus and grading details. 
 
+## Template 
+
+Please use the provided template to scribe the lecture notes.
+
+[[sty file]](https://gerrili1996.github.io/files/comm604.sty), [[latex file]](https://gerrili1996.github.io/files/lecture_note_template.tex)
+
 ## Lecture Notes 
 
-- Lecture 1 (Sep 3rd, 2024) 
+- Week 1 (Sep 3rd, 2024) --- [[Lecture 1: Overview]](https://gerrili1996.github.io/files/Lecture_1_COMM616.pdf), [[Lecture 2: Element of Convex Analysis I]](https://gerrili1996.github.io/files/Lecture_2_COMM616.pdf)
 - ...

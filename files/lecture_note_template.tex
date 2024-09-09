@@ -1,0 +1,254 @@
+% Begin your document as any latex file
+\documentclass{article}
+% Use package mse339
+\usepackage{mathtools}
+% \usepackage{hyperref} 
+\usepackage{comm604}
+%%%%%%%%% Some command definitions
+\usepackage{amsmath,amssymb}
+\usepackage{bm}
+
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage[pagebackref = true,linkcolor={red!80!black},citecolor={blue!70!black}, urlcolor={blue!70!black},colorlinks, breaklinks]{hyperref}
+
+% Font Shortcuts
+\newcommand{\mb}{\mathbf}
+\newcommand{\bs}{\boldsymbol}
+\newcommand{\mc}{\mathcal}
+\newcommand{\bb}{\mathbb}
+\newcommand{\bbm}{\mathbbm}
+\newcommand{\mf}{\mathfrak}
+%hotkeys
+\def\bA{{\mathbf{A}}}
+\def\bB{{\mathbf{B}}}
+\def\bC{{\mathbf{C}}}
+\def\bD{{\mathbf{D}}}
+\def\bE{{\mathbf{E}}}
+\def\bF{{\mathbf{F}}}
+\def\bG{{\mathbf{G}}}
+\def\bH{{\mathbf{H}}}
+\def\bI{{\mathbf{I}}}
+\def\bJ{{\mathbf{J}}}
+\def\bK{{\mathbf{K}}}
+\def\bL{{\mathbf{L}}}
+\def\bM{{\mathbf{M}}}
+\def\bN{{\mathbf{N}}}
+\def\bO{{\mathbf{O}}}
+\def\bP{{\mathbf{P}}}
+\def\bQ{{\mathbf{Q}}}
+\def\bR{{\mathbf{R}}}
+\def\bS{{\mathbf{S}}}
+\def\bT{{\mathbf{T}}}
+\def\bU{{\mathbf{U}}}
+\def\bV{{\mathbf{V}}}
+\def\bW{{\mathbf{W}}}
+\def\bX{{\mathbf{X}}}
+\def\bY{{\mathbf{Y}}}
+\def\bZ{{\mathbf{Z}}}
+
+\def\cA{{\cal A}}
+\def\cB{{\cal B}}
+\def\cC{{\cal C}}
+\def\cD{{\cal D}}
+\def\cE{{\cal E}}
+\def\cF{{\cal F}}
+\def\cG{{\cal G}}
+\def\cH{{\cal H}}
+\def\cI{{\cal I}}
+\def\cJ{{\cal J}}
+\def\cK{{\cal K}}
+\def\cL{{\cal L}}
+\def\cM{{\cal M}}
+\def\cN{{\cal N}}
+\def\cO{{\cal O}}
+\def\cP{{\cal P}}
+\def\cQ{{\cal Q}}
+\def \cR{{\cal \cR}}
+\def\cS{{\cal S}}
+\def\cT{{\cal T}}
+\def\cU{{\cal U}}
+\def\cV{{\cal V}}
+\def\cW{{\cal W}}
+\def\cX{{\cal X}}
+\def\cY{{\cal Y}}
+\def\cZ{{\cal Z}}
+
+\def\a{{\bm a}}
+\def\b{\bm{b}}
+\def\c{{\bm c}}
+\def\d{\bm{d}}
+\def\e{{\bm e}}
+\def\f{{\bm f}}
+\def\g{{\bm g}}
+\def\h{\bm{h}}
+\def\i{{\bm i}}
+\def\j{{\bm j}}
+\def\k{{\bm k}}
+\def\l{{\bm l}}
+\def\m{{\bm m}}
+\def\n{{\bm n}}
+\def\o{{\bm o}}
+\def\p{\bm{p}}
+\def\q{\bm{q}}
+\def\r{{\bm r}}
+\def\s{{\bm s}}
+\def\t{{\bm t}}
+\def\u{{\bm u}}
+\def\v{\bm{v}}
+\def\w{{\bm w}}
+\def\x{{\bm x}}
+\def\y{\bm{y}}
+\def\z{\bm{z}}
+\def\bz{{\mathbf 0}}
+\def\lbd{{\lambda}}
+\def\1{{\mathbf 1}}
+\def\prox{{\rm{prox}}}
+\def\proxbar{\overline{\textrm{prox}}}
+\def\dist{{\operatorname{dist}}}
+\def\intm{{\rm int}}
+
+\newcommand{\tO}{{\tilde{\mathcal O}}}
+%\newcommand{\R}{\mathbb{R}}
+\newcommand{\rank}{\mathrm{rank} }
+\newcommand{\blam}{{\boldsymbol\lambda}}
+\newcommand{\bga}{{\boldsymbol\gamma}}
+\newcommand{\bmu}{{\boldsymbol\mu}}
+\newcommand{\bnu}{{\boldsymbol\nu}}
+\newcommand{\bbt}{{\boldsymbol\beta}}
+\newcommand{\bro}{{\boldsymbol\rho}}
+
+
+%Function related
+\DeclareMathOperator{\dom}{dom}
+\DeclareMathOperator{\epi}{epi}
+% \def\argmin{\mathop{\mathrm{arg\,min}}\limits}
+% \def\argmax{\mathop{\arg\max}}
+\DeclareMathOperator{\argmin}{argmin}
+\DeclareMathOperator{\argmax}{argmax}
+% for def over equal
+\newcommand{\defequal}{\overset{\text{\tiny{def}}}{=}}
+\newcommand{\commentColor}{blue!90!black}
+%Topology related
+% \DeclareMathOperator{\dim}{dim}
+\DeclareMathOperator{\codim}{codim}
+\DeclareMathOperator{\aff}{aff}
+\DeclareMathOperator{\spann}{span}
+\DeclareMathOperator{\inter}{int}
+\DeclareMathOperator{\rint}{rint}
+\DeclareMathOperator{\cl}{cl}
+\DeclareMathOperator{\bd}{bd}
+\DeclareMathOperator{\rbd}{rbd}
+
+\DeclareMathOperator{\proj}{proj}
+\DeclareMathOperator{\sign}{sign}
+\DeclareMathOperator{\diam}{diam}
+\DeclareMathOperator{\st}{s.t.}
+\DeclareMathOperator{\ri}{ri}
+
+
+
+% \usepackage[table,xcdraw]{xcolor}
+% \usepackage[pagebackref = true,linkcolor={red!80!black},citecolor={blue!70!black}, urlcolor={blue!70!black},colorlinks, breaklinks]{hyperref}
+
+
+
+
+%\usepackage[textwidth=\marginparwidth]{todonotes}
+	%\usepackage{pdfsync}
+	%\usepackage{hyperref}
+	\usepackage{fancybox}
+	\usepackage{amsmath}
+	\usepackage{enumitem}
+	% For algorithms
+\renewcommand{\qedsymbol}{$\blacksquare$}
+\usepackage{algorithm}
+\usepackage{placeins}
+
+\usepackage[noend]{algpseudocode}
+
+%\def\argmax{\operatorname*{arg\,max}}
+%%%%%%%%%%%%%%%%%%
+% Begin the lecture with a line like the following:
+% \begin{lecture}{lecture number}{lecture title}{scribe name}
+% This replaces the usual \begin{document} that a latex
+% file begins with.
+\begin{document}
+\lecturetitle{}{Lecture \# Number: Lecture Title}{Scribe: Your Name}{}
+
+\section{Theorem Environment} 
+\begin{definition}[Definition Title (optional)]
+    Definition statement goes here.
+    \label{def:label}
+\end{definition}
+
+\begin{assumption}
+    Assumption statement goes here.
+    \label{assum:label}
+\end{assumption}
+
+\begin{theorem}[Theorem Title (optional)]
+    Theorem statement goes here.
+    \label{thm:label}
+\end{theorem}
+
+\begin{proof}
+    You are supposed to fill in the gaps we conducted in the class.
+\end{proof}
+
+\begin{corollary}
+    Corollary statement goes here.
+    \label{cor:label}
+\end{corollary}
+
+\begin{proposition}[Proposition Title (optional)]
+    Proposition statement goes here.
+    \label{prop:label}
+\end{proposition}
+
+\begin{lemma}
+    Lemma statement goes here.
+    \label{lem:label}
+\end{lemma}
+
+\begin{fact}
+    Fact statement goes here.
+    \label{fact:label}
+\end{fact}
+
+\begin{observation}
+    Observation statement goes here.
+    \label{obs:label}
+\end{observation}
+
+\begin{example}
+    Example goes here.
+    \label{ex:label}
+\end{example}
+
+\begin{remark}
+    Remark goes here.
+    \label{ex:remark}
+\end{remark}
+
+\section{Notation}
+I provide a notation list (standard convention in math and OR) and their hotkeys for you to follow. You can also define other hotkeys that are convenient for you. 
+
+
+
+\begin{itemize}
+    \item  Scalars: $\alpha,\beta,\gamma, \eta, \delta, \epsilon, t,\cdots$
+    \item Vectors: $\x,\y,\z,\u,\v, \bz,\1\cdots$
+    \item Matrices: $\bA,\bB,\bC,\bD,\cdots$
+    \item Sets: $\cX,\cY,\cZ,\cS,\cdots$
+    \item Set of real numbers: $\bbm R$
+    \item Projection operator: $\proj_{\cS}(\x) :=\mathop{\arg\min}_{\z\in\cS}\|\z-\x\|_2^2$
+    \item Proximal mapping: $\prox_f(\x):={\argmin}_{\z\in{\bbm R^d}} f(\z)+ \frac{1}{2}\|\z-\x\|_2^2$
+    \item Distance function: $\dist(\x,\cS) = \min_{\z\in\cS}\|\x-\z\|_2$
+    \item Effective domain of the function $f:{\bbm R}^d\rightarrow \overline{\bbm R}$: $\dom(f):=\{\x\in{\bbm R}^d: f(\x)<+\infty\}$
+    \item  Epigraph of the function  $f$: $\epi(f)$
+\end{itemize}
+
+\bibliography{ref} 
+\bibliographystyle{plain}  
+\end{document}
