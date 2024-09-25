@@ -7,12 +7,18 @@ redirect_from:
   - /markdown.html
 ---
 
-- Stability Evaluation via Distributional Perturbation Analysis
-	- The Chinese University of Hong Kong, Department of Statistics, July, 2024. 
+- Spurious Stationarity and Hardness Results for Bregman Proximal-type Algorithms [[slides]](https://gerrili1996.github.io/files/spurious_stationarity_wcom.pdf). 
+	- West Coast Optimization Meeting, September, 2024. 
+	- Institute of Applied Mathematics, UBC, October, 2024.
+	- INFORMS Annual Meeting, October, 2024. 
 
-- Nonsmooth Nonconvex-Nonconcave Minimax OPT: Algorithm Design and Convergence Analysis
-	- University of British Columbia, Sauder  School of Business, Virtual, November, 2023. 
-	- University of Washington, Department of Mathematics, December,  2023. 
+- Stability Evaluation via Distributional Perturbation Analysis [[slides]](https://gerrili1996.github.io/files/evaluation_slides.pdf). 
+	- The Chinese University of Hong Kong, Department of Statistics, July, 2024. 
+	- Shanghai University of Finance and Economics, July 2024. 
+
+- Nonsmooth Nonconvex-Nonconcave Minimax OPT: Algorithm Design and Convergence Analysis [[slides]](https://gerrili1996.github.io/files/Job_Talk_Slides.pdf). 
+	- University of British Columbia, Sauder School of Business, Virtual, November, 2023. 
+	- University of Washington, Department of Mathematics, December, 2023. 
 	- Rensselaer Polytechnic Institute (RPI), Mathematical Sciences, December,  2023.
 	- Cornell University, Operations Research and Information Engineering, December,  2023.
 	- University of Waterloo, Combinatorics and Optimization (C\&O) department, Virtual, January, 2024.
@@ -23,8 +29,8 @@ redirect_from:
 - Nonconvex Nonconcave Minimax Optimization for Data-driven Decision Making 
     - INFORMS Annual Meeting, October, 2023 [[slides]](https://gerrili1996.github.io/files/Informs_jiajin_2023.pdf). 
 
-- Trade-off among Infeasibility, Efficiency and Accuracy for Gromov-Wasserstein Computation
-    - SIAM Conference on Optimization (OP23), June  2023  [[slides]](https://gerrili1996.github.io/files/GW-SIAMOP.pdf).
+- Trade-off among Infeasibility, Efficiency and Accuracy for Gromov-Wasserstein Computation  [[slides]](https://gerrili1996.github.io/files/GW-SIAMOP.pdf).
+    - SIAM Conference on Optimization (OP23), June 2023,
     -  Women in Optimal Transport, April 2024.
 
 - Unifying Distributionally Robust Optimization via Optimal Transport Theory
@@ -37,6 +43,7 @@ redirect_from:
 - Tikhonov Regularization is Optimal Transport Robust under Martingale Constraints [[slides]](https://gerrili1996.github.io/files/Slides_informs_martingale_2022.pdf)
     - INFORMS Annual Meeting, October, 2022.
     - UT Austin EECS Rising Stars Workshop, October, 2022.
+
 - Modified Frank-Wolfe in Probability Space [[slides]](https://gerrili1996.github.io/files/fw_erice_jiajin.pdf)
     - Workshop “Robustness and Resilience in Stochastic Optimization and Statistical Learning:
     Mathematical Foundations”, May, 2022.
