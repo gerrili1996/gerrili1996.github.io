@@ -29,7 +29,13 @@ Please use the provided template to scribe the lecture notes.
 - Week 3 (Sep 17th, 2024)   [[Lecture 5: Duality Theory II and Conjugate Functions]]
 - Week 4 (Sep 24th, 2024)   [[Lecture 6: Optimality Conditions (Connection between Duality Theory and Subdifferential Calculus)]]
 - Week 5 (Oct 1st, 2024) [[Lecture 7: (Sub)Gradient Descent under Different Conditions]](https://gerrili1996.github.io/files/Lecture_7_COMM616.pdf)
-- Week 6 (Oct 8th, 2024)
+- Week 6 (Oct 8th, 2024) [[Lecture 8: Subgradient Methods Under Weakly Convexity]](https://gerrili1996.github.io/files/Lecture_8_COMM616.pdf)
+- Week 7 (Oct 15th, 2024) [[Lecture 9: Unified Convergence Analysis Framework for PGD]](https://gerrili1996.github.io/files/Lecture_9_COMM616.pdf)
+- Week 8 (Oct 22th, 2024) No class! 
+- Week 9 (Oct 29th, 2024)  
+  
+  
+  
 
 ## Assignment
 
