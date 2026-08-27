@@ -2,22 +2,22 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://jiajin-li-home-preview.gerrili1996.chatgpt.site"),
-  title: "Jiajin Li — Optimization & Data-Driven Decision Making",
+  metadataBase: new URL("https://gerrili1996.github.io"),
+  title: "Jiajin Li — Mathematical Optimization & Algorithm Design",
   description:
-    "Jiajin Li is an Assistant Professor at UBC working on mathematical optimization, distributional robustness, and optimal transport.",
+    "Jiajin Li is an Assistant Professor at UBC working on mathematical optimization, algorithm design, LLM training, and AI for mathematics.",
   openGraph: {
-    title: "Jiajin Li — Optimization for reliable decisions",
+    title: "Jiajin Li — Mathematical Optimization & Algorithms",
     description:
-      "Research in mathematical optimization, distributional robustness, and optimal transport.",
+      "Research in mathematical optimization, algorithm design, LLM training, and AI for mathematics.",
     images: [{ url: "/og.png", width: 1200, height: 630 }],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Jiajin Li — Optimization for reliable decisions",
+    title: "Jiajin Li — Mathematical Optimization & Algorithms",
     description:
-      "Research in mathematical optimization, distributional robustness, and optimal transport.",
+      "Research in mathematical optimization, algorithm design, LLM training, and AI for mathematics.",
     images: ["/og.png"],
   },
   icons: {
