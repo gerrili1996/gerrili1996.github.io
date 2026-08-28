@@ -456,25 +456,25 @@ summary:focus-visible {
 }
 
 .site-footer {
-  padding: 30px max(28px, 4vw);
+  padding: 18px max(24px, 3vw);
   display: grid;
   grid-template-columns: 1fr auto;
   align-items: center;
-  gap: 36px;
+  gap: 24px;
   background: #071d32;
   color: #dce9ef;
-  font-size: 12px;
+  font-size: 10.5px;
 }
 
 .site-footer > div:first-child {
   display: flex;
   align-items: baseline;
-  gap: 13px;
+  gap: 10px;
 }
 
 .site-footer strong {
   font-family: var(--serif);
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 500;
 }
 
@@ -1367,9 +1367,9 @@ summary:focus-visible {
   }
 
   .site-footer {
-    padding: 28px 20px;
+    padding: 20px;
     grid-template-columns: 1fr;
-    gap: 16px;
+    gap: 10px;
   }
 
   .site-footer > div:first-child {
