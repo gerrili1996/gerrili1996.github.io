@@ -83,6 +83,11 @@ export function PublicationsView() {
                       </div>
                       <h2>{paper.title}</h2>
                       <p className="publication-authors">
+                        {paper.alphabetical && (
+                          <span className="publication-author-order">
+                            (α–β order){" "}
+                          </span>
+                        )}
                         {highlightAuthor(paper.authors)}
                       </p>
                       <strong className="publication-venue">{paper.venue}</strong>
