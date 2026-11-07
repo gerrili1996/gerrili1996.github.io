@@ -669,7 +669,7 @@ summary:focus-visible {
   margin-top: 5px;
   color: var(--navy);
   font-size: 12px;
-  font-weight: 800;
+  font-weight: 500;
 }
 
 .publication-authors strong {

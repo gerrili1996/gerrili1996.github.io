@@ -92,7 +92,7 @@ export function PublicationsView() {
                       </p>
                       <strong className="publication-venue">{paper.venue}</strong>
                       {paper.status && (
-                        <strong className="publication-status">{paper.status}</strong>
+                        <span className="publication-status">{paper.status}</span>
                       )}
                     </div>
                     {paper.link && (
