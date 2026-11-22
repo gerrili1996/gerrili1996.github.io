@@ -672,6 +672,12 @@ summary:focus-visible {
   font-weight: 500;
 }
 
+.publication-status a {
+  color: var(--teal);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 .publication-authors strong {
   color: var(--navy);
   font-weight: 800;
