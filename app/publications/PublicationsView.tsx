@@ -22,21 +22,6 @@ function highlightAuthor(authors: string) {
   );
 }
 
-function renderStatus(status: string) {
-  const match = status.match(/^(.*?)\[([^\]]+)\]\((https?:\/\/[^)]+)\)(.*)$/);
-  if (!match) return status;
-
-  return (
-    <>
-      {match[1]}
-      <a href={match[3]} target="_blank" rel="noreferrer">
-        {match[2]}
-      </a>
-      {match[4]}
-    </>
-  );
-}
-
 export function PublicationsView() {
   const [filter, setFilter] = useState<Filter>("all");
   const visible =
@@ -107,7 +92,7 @@ export function PublicationsView() {
                       </p>
                       <strong className="publication-venue">{paper.venue}</strong>
                       {paper.status && (
-                        <span className="publication-status">{renderStatus(paper.status)}</span>
+                        <span className="publication-status">{paper.status}</span>
                       )}
                     </div>
                     {paper.link && (
